@@ -23,7 +23,7 @@
 ### 📖 Documentation & References
 
 - [HunyuanVideo Documentation](https://github.com/Tencent/HunyuanVideo) — Architecture details, dual-stream transformer design, and ComfyUI integration.
-- [CogVideoX Documentation (THUDM)](https://github.com/THUDM/CogVideo) — Open-source text-to-video and image-to-video models with 3D causal VAE.
+- [CogVideoX Documentation (THUDM)](https://github.com/zai-org/CogVideo) — Open-source text-to-video and image-to-video models with 3D causal VAE.
 - [Open-Sora Documentation](https://github.com/hpcaitech/Open-Sora) — Efficient video generation platform replicating OpenAI Sora architectures.
 
 ### 🎓 Courses
@@ -50,7 +50,7 @@
 ### 💻 GitHub / Implementations
 
 - [Tencent/HunyuanVideo](https://github.com/Tencent/HunyuanVideo) — HunyuanVideo: A Systematic Framework for Large Video Generative Models.
-- [THUDM/CogVideo](https://github.com/THUDM/CogVideo) — Text-to-video and Image-to-video model series by Tsinghua University.
+- [THUDM/CogVideo](https://github.com/zai-org/CogVideo) — Text-to-video and Image-to-video model series by Tsinghua University.
 - [hpcaitech/Open-Sora](https://github.com/hpcaitech/Open-Sora) — Open-Sora: Democratizing Efficient Video Production for All.
 
 ## 📄 Foundational Papers

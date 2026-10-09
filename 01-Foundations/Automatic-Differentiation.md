@@ -74,7 +74,7 @@
 ### 🛠️ Projects
 
 - [Build a 2D Tensor Autograd Engine](https://github.com/karpathy/micrograd) — Upgrade micrograd from scalar values to 2D matrices supporting matrix multiplication backward passes.
-- [Custom PyTorch Autograd Function](https://pytorch.org/tutorials/beginner/examples_autograd/two_step_layer.html) — Implement a custom non-differentiable or optimized CUDA op with explicit forward/backward methods.
+- [Custom PyTorch Autograd Function](https://pytorch.org/docs/stable/notes/extending.html) — Implement a custom non-differentiable or optimized CUDA op with explicit forward/backward methods.
 
 ## 🧭 Recommended Learning Path
 

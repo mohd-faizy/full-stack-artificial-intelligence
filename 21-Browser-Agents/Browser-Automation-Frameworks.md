@@ -24,7 +24,7 @@
 
 - [Playwright Documentation](https://playwright.dev/docs/intro) — Guides on locators, actions, network interception, and parallel test workers.
 - [Puppeteer Documentation](https://pptr.dev/) — Google's Node.js library for controlling Chrome and Chromium.
-- [Steel Documentation](https://steel.dev/docs) — Open-source browser API built for AI agents and automated web interaction.
+- [Steel Documentation](https://docs.steel.dev/) — Open-source browser API built for AI agents and automated web interaction.
 
 ### 🎓 Courses
 
@@ -52,7 +52,7 @@
 
 - [microsoft/playwright](https://github.com/microsoft/playwright) — Playwright is a framework for Web Testing and Automation.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) — JavaScript library which provides a high-level API to control Chrome/Chromium.
-- [steel-dev/steel](https://github.com/steel-dev/steel) — Open-source browser API for AI agents.
+- [steel-dev/steel](https://github.com/steel-dev/steel-browser) — Open-source browser API for AI agents.
 
 ## 📄 Foundational Papers
 

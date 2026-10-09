@@ -56,7 +56,7 @@
 
 ### 🧪 Practice
 
-- [Inspect AI Quickstart](https://github.com/UKGovernmentDataScience/inspect_ai) — Write and execute an automated model safety evaluation task in Python.
+- [Inspect AI Quickstart](https://github.com/UKGovernmentBEIS/inspect_ai) — Write and execute an automated model safety evaluation task in Python.
 
 ### 🛠️ Projects
 

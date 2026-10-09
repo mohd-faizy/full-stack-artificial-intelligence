@@ -15,7 +15,7 @@
 
 ### 🥇 Best Overall
 
-- [BiomedCLIP (Microsoft Research)](https://github.com/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224)
+- [BiomedCLIP (Microsoft Research)](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224)
   - Type: Biomedical Multimodal Foundation Model
   - Language: English
   - Level: Intermediate
@@ -27,7 +27,7 @@
 
 ### ▶️ YouTube — English
 
-- [AI Explained / Google Research: Video Guides & Tutorials](https://www.youtube.com/@GoogleforDevelopers)
+- [AI Explained / Google Research: Video Guides & Tutorials](https://www.youtube.com/@GoogleDevelopers)
   - Channel: AI Explained / Google Research
   - Language: English
   - Type: Analysis

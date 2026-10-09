@@ -32,7 +32,7 @@
 
 ### ▶️ YouTube — English
 
-- [Open3D: Video Guides & Tutorials](https://www.youtube.com/@Open3D_org)
+- [Open3D: Video Guides & Tutorials](https://www.youtube.com/@open3dteam873)
   - Channel: Open3D
   - Language: English
   - Type: Tutorial

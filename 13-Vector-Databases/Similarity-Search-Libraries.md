@@ -29,7 +29,7 @@
 
 ### 🎓 Courses
 
-- [Pinecone: Vector Search Course - Algorithms](https://www.pinecone.io/learn/series/vector-search-course/) — Visual deep-dive into HNSW, IVF, and Product Quantization algorithms.
+- [Pinecone: Vector Search Course - Algorithms](https://www.pinecone.io/learn/) — Visual deep-dive into HNSW, IVF, and Product Quantization algorithms.
 
 ### ▶️ YouTube — English
 

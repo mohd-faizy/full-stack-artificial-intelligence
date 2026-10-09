@@ -22,7 +22,7 @@
 
 ### 📖 Documentation & References
 
-- [Graphiti Documentation](https://getzep.github.io/graphiti/) — Architecture, temporal indexing, and hybrid graph+vector search workflows.
+- [Graphiti Documentation](https://github.com/getzep/graphiti) — Architecture, temporal indexing, and hybrid graph+vector search workflows.
 - [HippoRAG Documentation](https://github.com/OSU-NLP-Group/HippoRAG) — Hippocampal memory indexing framework for deep multi-hop knowledge retrieval.
 
 ### 🎓 Courses

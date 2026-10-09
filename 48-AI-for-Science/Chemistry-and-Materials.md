@@ -47,7 +47,7 @@
 
 - [RDKit](https://github.com/rdkit/rdkit) — Open-source cheminformatics.
 - [DeepChem](https://github.com/deepchem/deepchem) — Deep learning for chemistry and biology.
-- [Open Catalyst](https://github.com/FAIR-Chem/fairchem) — Catalysis and materials science ML.
+- [Open Catalyst](https://github.com/facebookresearch/fairchem) — Catalysis and materials science ML.
 - [SchNet](https://github.com/atomistic-machine-learning/schnetpack) — Deep learning for molecules.
 - [e3nn](https://github.com/e3nn/e3nn) — Euclidean neural networks for scientific computing.
 - [MACE](https://github.com/ACEsuit/mace) — Machine learning force fields.

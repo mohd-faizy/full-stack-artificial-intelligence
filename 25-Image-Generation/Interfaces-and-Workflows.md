@@ -62,7 +62,7 @@
 
 ### 🛠️ Projects
 
-- [Headless ComfyUI Microservice](https://docs.comfy.org/api) — Deploy ComfyUI in headless server mode and call its REST API from a web app to generate custom marketing banners on demand.
+- [Headless ComfyUI Microservice](https://docs.comfy.org/) — Deploy ComfyUI in headless server mode and call its REST API from a web app to generate custom marketing banners on demand.
 
 ## 🧭 Recommended Learning Path
 

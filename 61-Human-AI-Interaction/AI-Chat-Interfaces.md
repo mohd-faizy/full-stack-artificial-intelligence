@@ -47,7 +47,7 @@
 
 - [Open WebUI](https://github.com/open-webui/open-webui) — Self-hosted AI chat platform.
 - [LibreChat](https://github.com/danny-avila/LibreChat) — Multi-provider AI chat interface.
-- [LobeChat](https://github.com/lobehub/lobe-chat) — Modern-design AI chat framework.
+- [LobeChat](https://github.com/lobehub/lobehub) — Modern-design AI chat framework.
 - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) — Open-source ChatGPT UI.
 - [HuggingChat](https://github.com/huggingface/chat-ui) — Hugging Face's open chat interface.
 - [Chainlit](https://github.com/Chainlit/chainlit) — Build Python LLM chat apps.

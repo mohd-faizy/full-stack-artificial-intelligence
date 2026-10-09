@@ -57,7 +57,7 @@
 
 ### 💻 GitHub / Implementations
 
-- [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) — State-of-the-art text embeddings.
+- [Sentence Transformers](https://github.com/huggingface/sentence-transformers) — State-of-the-art text embeddings.
 - [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) — Embedding and reranking models (BGE).
 - [E5](https://github.com/microsoft/unilm) — Text representation research by Microsoft.
 - [Instructor](https://github.com/xlang-ai/instructor-embedding) — Task-aware text embeddings.

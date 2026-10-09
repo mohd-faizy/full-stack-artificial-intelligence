@@ -54,7 +54,7 @@
 
 ### 🧪 Practice
 
-- [CNN/DailyMail Summarization Benchmark](https://huggingface.co/datasets/cnn_dailymail) — The standard multi-sentence news summarization dataset.
+- [CNN/DailyMail Summarization Benchmark](https://huggingface.co/datasets/abisee/cnn_dailymail) — The standard multi-sentence news summarization dataset.
 
 ### 🛠️ Projects
 

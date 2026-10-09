@@ -27,7 +27,7 @@
 
 ### ▶️ YouTube — English
 
-- [Lex Fridman Podcast / DeepMind: Video Guides & Tutorials](https://www.youtube.com/@DeepMind)
+- [Lex Fridman Podcast / DeepMind: Video Guides & Tutorials](https://www.youtube.com/@googledeepmind)
   - Channel: Lex Fridman Podcast / DeepMind
   - Language: English
   - Type: Interview

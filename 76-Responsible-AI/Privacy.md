@@ -14,7 +14,7 @@
 
 ### 🥇 Best Overall
 
-- [CS 860: Algorithms for Private Data Analysis (Gautam Kamath)](https://www.gautamkamath.com/courses/cs860-fa2020.html)
+- [CS 860: Algorithms for Private Data Analysis (Gautam Kamath)](http://www.gautamkamath.com/)
   - Type: University Course & Lectures
   - Language: English
   - Level: Advanced
@@ -28,7 +28,7 @@
 
 ### 🎓 Courses
 
-- [CS 860 - Private Data Analysis (UWaterloo)](https://www.gautamkamath.com/courses/cs860-fa2020.html) — Comprehensive graduate course covering DP definitions, mechanisms, and machine learning privacy.
+- [CS 860 - Private Data Analysis (UWaterloo)](http://www.gautamkamath.com/) — Comprehensive graduate course covering DP definitions, mechanisms, and machine learning privacy.
 
 ### ▶️ YouTube — English
 
@@ -49,7 +49,7 @@
 
 ### 💻 GitHub / Implementations
 
-- [pytorch/opacus](https://github.com/pytorch/opacus) — Train PyTorch models with Differential Privacy with minimal code overhead.
+- [pytorch/opacus](https://github.com/meta-pytorch/opacus) — Train PyTorch models with Differential Privacy with minimal code overhead.
 - [OpenDP/opendp](https://github.com/opendp/opendp) — Community-developed differential privacy tools for privacy-preserving computations.
 
 ## 📄 Foundational Papers
@@ -63,7 +63,7 @@
 
 ### 🛠️ Projects
 
-- [Differentially Private LLM Fine-Tuning](https://github.com/huggingface/dp-transformers) — Fine-tune a Hugging Face transformer with DP-SGD to prevent extraction of confidential training records.
+- [Differentially Private LLM Fine-Tuning](https://github.com/microsoft/dp-transformers) — Fine-tune a Hugging Face transformer with DP-SGD to prevent extraction of confidential training records.
 
 ## 🧭 Recommended Learning Path
 

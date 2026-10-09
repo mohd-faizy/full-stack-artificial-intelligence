@@ -23,7 +23,7 @@
 
 ### 🎓 Courses
 
-- [Coursera: Machine Learning for Trading (Google Cloud & New York Institute of Finance)](https://www.coursera.org/specializations/machine-learning-trading-financial-engineering) — Comprehensive course on quantitative trading, portfolio management, and reinforcement learning.
+- [Coursera: Machine Learning for Trading (Google Cloud & New York Institute of Finance)](https://www.coursera.org/learn/machine-learning-trading-finance) — Comprehensive course on quantitative trading, portfolio management, and reinforcement learning.
 
 ### ▶️ YouTube — English
 
@@ -58,7 +58,7 @@
 
 ### 🧪 Practice
 
-- [FinRL Stock Trading Tutorial](https://github.com/AI4Finance-Foundation/FinRL/tree/master/tutorials) — Train a DDPG agent to trade Dow Jones 30 stocks with realistic transaction costs in Google Colab.
+- [FinRL Stock Trading Tutorial](https://github.com/AI4Finance-Foundation/FinRL-Tutorials) — Train a DDPG agent to trade Dow Jones 30 stocks with realistic transaction costs in Google Colab.
 
 ### 🛠️ Projects
 

@@ -23,7 +23,7 @@
 ### 📖 Documentation & References
 
 - [LLaVA Documentation & Code](https://llava-vl.github.io/) — Architectural details, fine-tuning guides, and model checkpoints.
-- [Qwen2-VL Documentation](https://github.com/QwenLM/Qwen2-VL) — Alibaba's flagship open vision-language model with dynamic resolution support.
+- [Qwen2-VL Documentation](https://github.com/QwenLM/Qwen3-VL) — Alibaba's flagship open vision-language model with dynamic resolution support.
 - [Hugging Face Vision-Language Guide](https://huggingface.co/docs/transformers/tasks/visual_question_answering) — Tutorial on loading and inferencing VLMs with Transformers.
 
 ### 🎓 Courses
@@ -51,7 +51,7 @@
 ### 💻 GitHub / Implementations
 
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) — Visual Instruction Tuning: Large Language and Vision Assistant.
-- [QwenLM/Qwen2-VL](https://github.com/QwenLM/Qwen2-VL) — Qwen2-VL is the multimodal large language model series developed by Qwen team.
+- [QwenLM/Qwen2-VL](https://github.com/QwenLM/Qwen3-VL) — Qwen2-VL is the multimodal large language model series developed by Qwen team.
 - [OpenGVLab/InternVL](https://github.com/OpenGVLab/InternVL) — InternVL family: Expanding the frontier of open-source multimodal models.
 
 ## 📄 Foundational Papers

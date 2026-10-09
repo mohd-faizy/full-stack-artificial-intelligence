@@ -15,7 +15,7 @@
 
 ### 🥇 Best Overall
 
-- [SaulLM (Equall AI)](https://github.com/equall/saullm)
+- [SaulLM (Equall AI)](https://huggingface.co/Equall)
   - Type: Legal Foundation Model
   - Language: English
   - Level: Intermediate
@@ -60,7 +60,7 @@
 
 ### 🛠️ Projects
 
-- [Court Precedent Search Engine with Legal-BERT](https://github.com/nlpaueb/legal-bert) — Build a semantic search engine over supreme court opinions that matches queries to relevant legal precedents.
+- [Court Precedent Search Engine with Legal-BERT](https://huggingface.co/nlpaueb/legal-bert-base-uncased) — Build a semantic search engine over supreme court opinions that matches queries to relevant legal precedents.
 
 ## 🧭 Recommended Learning Path
 

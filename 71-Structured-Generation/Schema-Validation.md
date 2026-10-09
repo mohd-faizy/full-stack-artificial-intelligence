@@ -23,7 +23,7 @@
 
 ### 🎓 Courses
 
-- [Pydantic Official Tutorials](https://docs.pydantic.dev/latest/tutorials/overview/) — Step-by-step tutorials from basic model validation to advanced custom validators.
+- [Pydantic Official Tutorials](https://docs.pydantic.dev/latest/concepts/models/) — Step-by-step tutorials from basic model validation to advanced custom validators.
 
 ### ▶️ YouTube — English
 

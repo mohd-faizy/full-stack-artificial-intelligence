@@ -24,7 +24,7 @@
 ### 📖 Documentation & References
 
 - [FlashAttention-2 Documentation](https://github.com/Dao-AILab/flash-attention) — Fast and memory-efficient exact attention with IO-awareness enabling long-context training and inference.
-- [RingAttention GitHub (UC Berkeley)](https://github.com/lhao499/RingAttention) — Implementation of RingAttention for near-infinite context length scaling across distributed GPUs.
+- [RingAttention GitHub (UC Berkeley)](https://github.com/haoliuhl/ringattention) — Implementation of RingAttention for near-infinite context length scaling across distributed GPUs.
 
 ### 🎓 Courses
 
@@ -63,15 +63,15 @@
 
 - [LongRoPE](https://github.com/microsoft/LongRoPE) — Extending LLM context window.
 - [YaRN](https://github.com/jquesnelle/yarn) — Efficient context extension for transformers.
-- [LongLoRA](https://github.com/dvlab-research/LongLoRA) — Efficient fine-tuning for long-context LLMs.
+- [LongLoRA](https://github.com/JIA-Lab-research/LongLoRA) — Efficient fine-tuning for long-context LLMs.
 
 ### 🧪 Practice
 
-- [Needle In A Haystack Pressure Test Repository](https://github.com/gkamradt/LLMTest_NeedleInAHaystack) — The industry-standard benchmark script testing recall across document lengths and depths.
+- [Needle In A Haystack Pressure Test Repository](https://github.com/gkamradt/needle-in-a-haystack) — The industry-standard benchmark script testing recall across document lengths and depths.
 
 ### 🛠️ Projects
 
-- [Run a 128k Context Pressure Test on Llama 3](https://github.com/gkamradt/LLMTest_NeedleInAHaystack) — Insert needle facts into multi-hundred-page documents and evaluate retrieval accuracy across 20 depth slices.
+- [Run a 128k Context Pressure Test on Llama 3](https://github.com/gkamradt/needle-in-a-haystack) — Insert needle facts into multi-hundred-page documents and evaluate retrieval accuracy across 20 depth slices.
 
 ## 🧭 Recommended Learning Path
 
@@ -85,5 +85,5 @@
 
 1. [FlashAttention-2 (Tri Dao)](https://github.com/Dao-AILab/flash-attention) — The essential exact-attention kernel enabling practical long-context training.
 2. [YaRN (Peng et al.)](https://arxiv.org/abs/2309.00071) — The most effective, resource-efficient RoPE context window expansion method.
-3. [Needle In A Haystack Benchmark (Greg Kamradt)](https://github.com/gkamradt/LLMTest_NeedleInAHaystack) — The gold-standard empirical validation benchmark for long-context models.
+3. [Needle In A Haystack Benchmark (Greg Kamradt)](https://github.com/gkamradt/needle-in-a-haystack) — The gold-standard empirical validation benchmark for long-context models.
 

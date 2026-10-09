@@ -15,7 +15,7 @@
 
 ### 🥇 Best Overall
 
-- [Chonkie: No-Nonsense RAG Chunking Library](https://github.com/bhavnicksm/chonkie)
+- [Chonkie: No-Nonsense RAG Chunking Library](https://github.com/chonkie-inc/chonkie)
   - Type: Library & Documentation
   - Language: English
   - Level: Beginner to Intermediate
@@ -46,7 +46,7 @@
 
 ### 📚 Books
 
-- [Vector Search for Practitioners by Pinecone](https://www.pinecone.io/learn/vector-search/) — Free comprehensive online guide detailing vector representations, indexing algorithms, and similarity metrics.
+- [Vector Search for Practitioners by Pinecone](https://www.pinecone.io/learn/) — Free comprehensive online guide detailing vector representations, indexing algorithms, and similarity metrics.
 
 ### 💻 GitHub / Implementations
 
@@ -60,7 +60,7 @@
 
 ### 🛠️ Projects
 
-- [Build a High-Speed Semantic Document Chunker](https://github.com/bhavnicksm/chonkie) — Implement semantic chunking that calculates rolling embedding distances between consecutive sentences to place splits at semantic topic boundaries.
+- [Build a High-Speed Semantic Document Chunker](https://github.com/chonkie-inc/chonkie) — Implement semantic chunking that calculates rolling embedding distances between consecutive sentences to place splits at semantic topic boundaries.
 
 ## 🧭 Recommended Learning Path
 
@@ -73,6 +73,6 @@
 ## ⭐ Top 3 Resources
 
 1. [FastEmbed (Qdrant)](https://github.com/qdrant/fastembed) — The fastest, most lightweight ONNX library for local embedding generation.
-2. [Chonkie](https://github.com/bhavnicksm/chonkie) — Modern, high-performance chunking library built specifically for RAG architectures.
+2. [Chonkie](https://github.com/chonkie-inc/chonkie) — Modern, high-performance chunking library built specifically for RAG architectures.
 3. [Greg Kamradt's 5 Levels of Chunking](https://github.com/FullStackRetrieval-com/RetrievalTutorials) — The definitive visual conceptual framework for text chunking.
 

@@ -27,7 +27,7 @@
 
 ### ▶️ YouTube — English
 
-- [AI Explained / Google DeepMind: Video Guides & Tutorials](https://www.youtube.com/@DeepMind)
+- [AI Explained / Google DeepMind: Video Guides & Tutorials](https://www.youtube.com/@googledeepmind)
   - Channel: AI Explained / Google DeepMind
   - Language: English
   - Type: Analysis
@@ -41,7 +41,7 @@
 
 ### 📚 Books
 
-- [The Art and Craft of Problem Solving by Paul Zeitz](https://www.wiley.com/en-us/The+Art+and+Craft+of+Problem+Solving%2C+3rd+Edition-p-9781119228776) — The legendary competition math handbook teaching heuristics, strategies, and number theory.
+- [The Art and Craft of Problem Solving by Paul Zeitz](https://www.wiley.com/en-us/The+Art+and+Craft+of+Problem+Solving%2C+3rd+Edition-p-9781119239901) — The legendary competition math handbook teaching heuristics, strategies, and number theory.
 
 ### 💻 GitHub / Implementations
 

@@ -24,7 +24,7 @@
 ### 📖 Documentation & References
 
 - [Stanford ColBERT Documentation](https://github.com/stanford-futuredata/ColBERT) — Official implementation of ColBERT and PLAID (Performance-optimized Late Interaction for Asymmetric Information Distribution).
-- [RAGatouille Documentation](https://github.com/bclavie/RAGatouille) — Library making advanced ColBERT late-interaction models effortless to use with 3 lines of code.
+- [RAGatouille Documentation](https://github.com/AnswerDotAI/RAGatouille) — Library making advanced ColBERT late-interaction models effortless to use with 3 lines of code.
 
 ### 🎓 Courses
 
@@ -57,13 +57,13 @@
 ### 💻 GitHub / Implementations
 
 - [txtai](https://github.com/neuml/txtai) — All-in-one semantic search and RAG platform.
-- [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) — Semantic similarity models.
+- [Sentence Transformers](https://github.com/huggingface/sentence-transformers) — Semantic similarity models.
 - [ColBERT](https://github.com/stanford-futuredata/ColBERT) — Efficient passage search via late interaction.
 - [Cohere Rerank](https://github.com/cohere-ai) — Neural reranking models.
 
 ### 🧪 Practice
 
-- [RAGatouille Colab Notebook](https://github.com/bclavie/RAGatouille) — Interactive playground indexing Wikipedia articles and querying with ColBERT.
+- [RAGatouille Colab Notebook](https://github.com/AnswerDotAI/RAGatouille) — Interactive playground indexing Wikipedia articles and querying with ColBERT.
 
 ### 🛠️ Projects
 
@@ -80,6 +80,6 @@
 ## ⭐ Top 3 Resources
 
 1. [ColBERTv2 (Stanford NLP)](https://github.com/stanford-futuredata/ColBERT) — The gold-standard late-interaction model combining token-level precision with fast retrieval.
-2. [RAGatouille](https://github.com/bclavie/RAGatouille) — The easiest and most developer-friendly way to integrate ColBERT into RAG pipelines.
+2. [RAGatouille](https://github.com/AnswerDotAI/RAGatouille) — The easiest and most developer-friendly way to integrate ColBERT into RAG pipelines.
 3. [SPLADE (Naver Labs)](https://github.com/naver/splade) — Pioneering learned sparse representation model bridging lexical search and neural embeddings.
 

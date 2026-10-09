@@ -15,7 +15,7 @@
 
 ### 🥇 Best Overall
 
-- [Safetensors (Hugging Face)](https://github.com/huggingface/safetensors)
+- [Safetensors (Hugging Face)](https://github.com/safetensors/safetensors)
   - Type: Tensor Serialization Format
   - Language: English
   - Level: Intermediate
@@ -45,17 +45,17 @@
 
 ### 💻 GitHub / Implementations
 
-- [GGML](https://github.com/ggerganov/ggml) — Tensor library optimized for transformer inference.
+- [GGML](https://github.com/ggml-org/ggml) — Tensor library optimized for transformer inference.
 - [GGUF](https://github.com/ggml-org/llama.cpp) — Binary format for quantized models.
 - [Safetensors](https://github.com/safetensors/safetensors) — Safe and fast tensor serialization format.
 
 ### 🧪 Practice
 
-- [Convert PyTorch Checkpoint to GGUF](https://github.com/ggerganov/llama.cpp/blob/master/convert_hf_to_gguf.py) — Run `convert_hf_to_gguf.py` and quantize to `q4_k_m` in your terminal.
+- [Convert PyTorch Checkpoint to GGUF](https://github.com/ggml-org/llama.cpp/blob/master/convert_hf_to_gguf.py) — Run `convert_hf_to_gguf.py` and quantize to `q4_k_m` in your terminal.
 
 ### 🛠️ Projects
 
-- [Zero-Copy Tensor Inspector](https://github.com/huggingface/safetensors) — Write a Rust or Python CLI that reads Safetensors headers and inspects layer shapes without loading weights into RAM.
+- [Zero-Copy Tensor Inspector](https://github.com/safetensors/safetensors) — Write a Rust or Python CLI that reads Safetensors headers and inspects layer shapes without loading weights into RAM.
 
 ## 🧭 Recommended Learning Path
 

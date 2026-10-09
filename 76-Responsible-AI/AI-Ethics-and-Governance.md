@@ -28,11 +28,11 @@
 
 ### 🎓 Courses
 
-- [AI Ethics: Global Perspectives (NYU)](https://www.edx.org/course/ai-ethics-global-perspectives) — Course examining social impact, ethical challenges, and governance of automated systems.
+- [AI Ethics: Global Perspectives (NYU)](https://www.edx.org/learn/ethics) — Course examining social impact, ethical challenges, and governance of automated systems.
 
 ### ▶️ YouTube — English
 
-- [Google PAIR: Video Guides & Tutorials](https://www.youtube.com/@GoogleforDevelopers)
+- [Google PAIR: Video Guides & Tutorials](https://www.youtube.com/@GoogleDevelopers)
   - Channel: Google PAIR
   - Language: English
   - Type: Lecture / Tutorial

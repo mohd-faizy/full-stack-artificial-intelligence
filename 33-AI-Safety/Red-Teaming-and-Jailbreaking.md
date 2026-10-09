@@ -15,7 +15,7 @@
 
 ### 🥇 Best Overall
 
-- [Garak: LLM Vulnerability Scanner](https://github.com/leondz/garak)
+- [Garak: LLM Vulnerability Scanner](https://github.com/NVIDIA/garak)
   - Type: Vulnerability Scanner
   - Language: English
   - Level: Intermediate
@@ -59,7 +59,7 @@
 
 ### 🧪 Practice
 
-- [Garak Quickstart Scan](https://github.com/leondz/garak) — Run a full vulnerability assessment against an Ollama or OpenAI endpoint in your terminal.
+- [Garak Quickstart Scan](https://github.com/NVIDIA/garak) — Run a full vulnerability assessment against an Ollama or OpenAI endpoint in your terminal.
 
 ### 🛠️ Projects
 

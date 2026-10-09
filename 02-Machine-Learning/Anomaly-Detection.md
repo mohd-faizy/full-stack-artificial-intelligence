@@ -24,7 +24,7 @@
 ### 📖 Documentation & References
 
 - [PyOD User Guide](https://pyod.readthedocs.io/en/latest/) — Detailed API documentation and algorithmic benchmarks for outlier detection.
-- [Anomalib Documentation (Intel OpenVINO)](https://openvinotoolkit.github.io/anomalib/) — Deep learning library for visual anomaly detection in images and industrial inspection.
+- [Anomalib Documentation (Intel OpenVINO)](https://anomalib.readthedocs.io/en/latest/) — Deep learning library for visual anomaly detection in images and industrial inspection.
 - [Alibi Detect Documentation](https://docs.seldon.io/projects/alibi-detect/en/stable/) — Outlier, concept drift, and adversarial detection library by Seldon.
 
 ### 🎓 Courses
@@ -79,6 +79,6 @@
 ## ⭐ Top 3 Resources
 
 1. [PyOD](https://pyod.readthedocs.io/en/latest/) — The gold standard Python toolkit for tabular outlier detection.
-2. [Anomalib](https://openvinotoolkit.github.io/anomalib/) — Premier deep learning library for computer vision anomaly detection.
+2. [Anomalib](https://anomalib.readthedocs.io/en/latest/) — Premier deep learning library for computer vision anomaly detection.
 3. [Outlier Analysis by Charu Aggarwal](https://link.springer.com/book/10.1007/978-3-319-47578-3) — The most thorough theoretical textbook on anomaly detection.
 

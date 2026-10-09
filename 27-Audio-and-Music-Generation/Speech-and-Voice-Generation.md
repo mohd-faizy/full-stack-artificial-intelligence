@@ -22,7 +22,7 @@
 
 ### 📖 Documentation & References
 
-- [Parler-TTS Documentation](https://huggingface.co/docs/parler-tts/index) — Usage guides, prompt recipes, and inference optimization for Parler-TTS.
+- [Parler-TTS Documentation](https://github.com/huggingface/parler-tts) — Usage guides, prompt recipes, and inference optimization for Parler-TTS.
 - [Coqui TTS Documentation](https://github.com/coqui-ai/TTS) — Deep learning toolkit for Text-to-Speech with pre-trained models in 20+ languages.
 - [Fish Speech Documentation](https://speech.fish.audio/) — Open-source multilingual voice cloning and speech synthesis architecture.
 

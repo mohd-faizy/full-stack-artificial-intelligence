@@ -23,7 +23,7 @@
 ### 📖 Documentation & References
 
 - [Meta Llama GitHub & Docs](https://github.com/meta-llama/llama) — Official reference codebase for Llama 3 models from Meta AI.
-- [Qwen 2.5 GitHub & Model Cards](https://github.com/QwenLM/Qwen2.5) — Official repository for Alibaba's flagship open-weights model family.
+- [Qwen 2.5 GitHub & Model Cards](https://github.com/QwenLM/Qwen3) — Official repository for Alibaba's flagship open-weights model family.
 - [Mistral Common / Reference Code](https://github.com/mistralai/mistral-inference) — Official reference implementation for Mistral and Mixtral models.
 
 ### 🎓 Courses
@@ -65,9 +65,9 @@
 - [Llama](https://github.com/meta-llama/llama) — Meta's Llama family of models.
 - [Llama 3](https://github.com/meta-llama/llama3) — Meta's latest Llama models.
 - [Mistral](https://github.com/mistralai/mistral-inference) — Mistral AI's inference reference.
-- [Qwen](https://github.com/QwenLM/Qwen2.5) — Alibaba's Qwen large language model.
+- [Qwen](https://github.com/QwenLM/Qwen3) — Alibaba's Qwen large language model.
 - [Gemma](https://github.com/google-deepmind/gemma) — Google's lightweight open models.
-- [Phi](https://github.com/microsoft/phi-3cookbook) — Microsoft's small language models.
+- [Phi](https://github.com/microsoft/PhiCookBook) — Microsoft's small language models.
 - [DeepSeek](https://github.com/deepseek-ai/DeepSeek-V3) — DeepSeek's open models.
 - [Yi](https://github.com/01-ai/Yi) — 01.AI's bilingual language models.
 - [InternLM](https://github.com/InternLM/InternLM) — Multilingual foundation model.
@@ -96,5 +96,5 @@
 
 1. [DeepSeek-V3 / R1 (DeepSeek AI)](https://github.com/deepseek-ai/DeepSeek-V3) — The watershed open-weights architecture proving algorithmic innovation matches closed brute-force compute.
 2. [Meta Llama (Meta AI)](https://github.com/meta-llama/llama) — The global foundation model cornerstone powering enterprise and research development.
-3. [Qwen 2.5 (Alibaba Cloud)](https://github.com/QwenLM/Qwen2.5) — Industry-leading coding, mathematics, and multilingual open-weights models.
+3. [Qwen 2.5 (Alibaba Cloud)](https://github.com/QwenLM/Qwen3) — Industry-leading coding, mathematics, and multilingual open-weights models.
 

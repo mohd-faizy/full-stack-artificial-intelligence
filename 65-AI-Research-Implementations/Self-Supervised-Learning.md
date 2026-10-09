@@ -48,7 +48,7 @@
 - [DINO v2](https://github.com/facebookresearch/dinov2) — Self-supervised vision transformers.
 - [MAE](https://github.com/facebookresearch/mae) — Masked autoencoders for vision.
 - [SimCLR](https://github.com/google-research/simclr) — Contrastive learning of visual representations.
-- [BYOL](https://github.com/deepmind/deepmind-research) — Bootstrap your own latent.
+- [BYOL](https://github.com/google-deepmind/deepmind-research) — Bootstrap your own latent.
 - [VICReg](https://github.com/facebookresearch/vicreg) — Variance-invariance-covariance regularization.
 
 ## 📄 Foundational Papers

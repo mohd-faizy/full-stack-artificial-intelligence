@@ -23,7 +23,7 @@
 
 ### 📖 Documentation & References
 
-- [NNI Neural Architecture Search Guide](https://nni.readthedocs.io/en/stable/nas.html) — Comprehensive documentation covering DARTS, ENAS, ProxylessNAS, and one-shot algorithms.
+- [NNI Neural Architecture Search Guide](https://nni.readthedocs.io/en/stable/nas/overview.html) — Comprehensive documentation covering DARTS, ENAS, ProxylessNAS, and one-shot algorithms.
 - [AutoKeras Documentation](https://autokeras.com/) — Automated deep learning library based on Keras, developed by DATA Lab at Texas A&M University.
 
 ### 🎓 Courses
@@ -62,7 +62,7 @@
 
 ### 🧪 Practice
 
-- [NNI NAS Retiarii Playground](https://nni.readthedocs.io/en/stable/nas/quickstart.html) — Run a simple DARTS search on CIFAR-10 exploring convolution cell combinations.
+- [NNI NAS Retiarii Playground](https://nni.readthedocs.io/en/stable/nas/overview.html) — Run a simple DARTS search on CIFAR-10 exploring convolution cell combinations.
 
 ### 🛠️ Projects
 

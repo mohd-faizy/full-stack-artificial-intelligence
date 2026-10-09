@@ -24,7 +24,7 @@
 ### 📖 Documentation & References
 
 - [LangChain Graph Construction Guide](https://python.langchain.com/docs/how_to/graph_constructing/) — Tutorial on extracting knowledge graphs from text using LLMs and storing them directly in Neo4j.
-- [LlamaIndex Knowledge Graph Index](https://docs.llamaindex.ai/en/stable/examples/index_structs/knowledge_graph/KnowledgeGraphIndex/) — Automated extraction and indexing of triples from text documents.
+- [LlamaIndex Knowledge Graph Index](https://docs.llamaindex.ai/en/stable/community/integrations/graph_stores/) — Automated extraction and indexing of triples from text documents.
 
 ### 🎓 Courses
 

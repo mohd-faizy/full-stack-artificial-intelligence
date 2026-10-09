@@ -55,7 +55,7 @@
 
 ### 🧪 Practice
 
-- [Chainlit Quickstart CLI](https://docs.chainlit.io/get-started/quickstart) — Run `chainlit hello` and launch your first interactive chat application in 30 seconds.
+- [Chainlit Quickstart CLI](https://docs.chainlit.io/get-started/overview) — Run `chainlit hello` and launch your first interactive chat application in 30 seconds.
 
 ### 🛠️ Projects
 

@@ -45,13 +45,13 @@
 
 ### 💻 GitHub / Implementations
 
-- [TagUI](https://github.com/kelaberetiv/TagUI) — Free RPA / CLI tool for process automation.
+- [TagUI](https://github.com/aisingapore/TagUI) — Free RPA / CLI tool for process automation.
 - [RPA Framework](https://github.com/robocorp/rpaframework) — Open-source RPA libraries.
 - [Robocorp](https://github.com/robocorp) — Open-source RPA platform.
 
 ### 🧪 Practice
 
-- [Robocorp Portal Examples](https://github.com/robocorp/example-projects) — Dozens of ready-to-run automation templates for invoicing, CRM updates, and data scraping.
+- [Robocorp Portal Examples](https://github.com/robocorp/example-advanced-python-template) — Dozens of ready-to-run automation templates for invoicing, CRM updates, and data scraping.
 
 ### 🛠️ Projects
 

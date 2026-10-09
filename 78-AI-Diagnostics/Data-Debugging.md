@@ -50,7 +50,7 @@
 
 ### 💻 GitHub / Implementations
 
-- [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations) — Always know what to expect from your data.
+- [great-expectations/great_expectations](https://github.com/fivetran/great_expectations) — Always know what to expect from your data.
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) — The standard open-source library for data-centric AI and label quality.
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) — Open-source tool for curating vision datasets and finding visual label anomalies.
 
@@ -60,7 +60,7 @@
 
 ### 🧪 Practice
 
-- [Cleanlab Interactive Demos](https://github.com/cleanlab/cleanlab/tree/master/examples) — Jupyter notebooks detecting label errors across ImageNet, MNIST, and toxic comment classification datasets.
+- [Cleanlab Interactive Demos](https://github.com/cleanlab/cleanlab/tree/master/docs/source/tutorials) — Jupyter notebooks detecting label errors across ImageNet, MNIST, and toxic comment classification datasets.
 
 ### 🛠️ Projects
 

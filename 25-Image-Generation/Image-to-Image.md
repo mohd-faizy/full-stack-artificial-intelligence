@@ -23,7 +23,7 @@
 ### 📖 Documentation & References
 
 - [Diffusers Inpainting Guide](https://huggingface.co/docs/diffusers/using-diffusers/inpaint) — Tutorial on inpainting with Stable Diffusion and FLUX in Diffusers.
-- [InstructPix2Pix Documentation](https://www.timothybrooks.com/instruct-pix2pix) — Interactive demos, paired training dataset generation, and editing workflows.
+- [InstructPix2Pix Documentation](https://github.com/timothybrooks/instruct-pix2pix) — Interactive demos, paired training dataset generation, and editing workflows.
 
 ### 🎓 Courses
 

@@ -89,7 +89,7 @@
 ### 🛠️ Projects
 
 - [A/B Testing Statistical Engine](https://github.com/statsmodels/statsmodels) — Build an end-to-end hypothesis testing pipeline computing p-values, statistical power, and sample sizes.
-- [Bayesian Linear Regression with PyMC](https://www.pymc.io/projects/docs/en/stable/gallery.html) — Implement a Bayesian inference model generating posterior parameter distributions.
+- [Bayesian Linear Regression with PyMC](https://www.pymc.io/projects/examples/en/latest/gallery.html) — Implement a Bayesian inference model generating posterior parameter distributions.
 
 ## 🧭 Recommended Learning Path
 

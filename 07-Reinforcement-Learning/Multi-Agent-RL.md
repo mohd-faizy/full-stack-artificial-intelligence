@@ -33,7 +33,7 @@
 
 ### ▶️ YouTube — English
 
-- [DeepMind: Video Guides & Tutorials](https://www.youtube.com/@DeepMind)
+- [DeepMind: Video Guides & Tutorials](https://www.youtube.com/@googledeepmind)
   - Channel: DeepMind
   - Language: English
   - Type: Lecture

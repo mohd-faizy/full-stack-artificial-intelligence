@@ -26,7 +26,7 @@
 
 - [Darts Documentation](https://unit8co.github.io/darts/) — Unified Python library for easy manipulation and forecasting of time series from ARIMA to deep learning.
 - [StatsForecast Documentation (Nixtla)](https://nixtlaverse.nixtla.me/statsforecast/index.html) — Blazing-fast implementations of statistical forecasting models (AutoARIMA, ETS) outperforming standard libraries.
-- [sktime Documentation](https://www.sktime.net/en/stable/) — Unified framework for machine learning with time series extending scikit-learn conventions.
+- [sktime Documentation](https://www.sktime.net/) — Unified framework for machine learning with time series extending scikit-learn conventions.
 
 ### 🎓 Courses
 
@@ -53,7 +53,7 @@
 ### 📚 Books
 
 - [Forecasting: Principles and Practice (Hyndman & Athanasopoulos)](https://otexts.com/fpp3/) — Free, definitive forecasting text with extensive real-world case studies.
-- [Time Series Analysis and Its Applications (Shumway & Stoffer)](https://www.stat.pitt.edu/stoffer/tsa4/) — Rigorous mathematical text covering frequency domain and state-space models.
+- [Time Series Analysis and Its Applications (Shumway & Stoffer)](https://github.com/nickpoison/tsa4) — Rigorous mathematical text covering frequency domain and state-space models.
 
 ### 💻 GitHub / Implementations
 

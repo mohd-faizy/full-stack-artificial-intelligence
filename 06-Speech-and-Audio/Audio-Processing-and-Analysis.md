@@ -46,7 +46,7 @@
 
 ### 📚 Books
 
-- [Fundamentals of Music Processing by Meinard Müller](https://www.audiolabs-erlangen.de/resources/MIR/FMP/data/FMP_TableOfContents.html) — The definitive academic textbook with interactive Jupyter notebooks on Fourier analysis and audio processing.
+- [Fundamentals of Music Processing by Meinard Müller](https://www.audiolabs-erlangen.de/resources/MIR/FMP/) — The definitive academic textbook with interactive Jupyter notebooks on Fourier analysis and audio processing.
 
 ### 💻 GitHub / Implementations
 

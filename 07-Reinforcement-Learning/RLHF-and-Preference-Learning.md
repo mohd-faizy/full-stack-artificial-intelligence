@@ -24,7 +24,7 @@
 ### 📖 Documentation & References
 
 - [Hugging Face TRL Documentation](https://huggingface.co/docs/trl/index) — Exhaustive tutorials on training with SFTTrainer, DPOTrainer, and PPOTrainer.
-- [DeepSpeed-Chat](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat) — Full-scale end-to-end RLHF pipeline powered by DeepSpeed ZeRO engines.
+- [DeepSpeed-Chat](https://github.com/deepspeedai/DeepSpeed/tree/master/blogs/deepspeed-chat) — Full-scale end-to-end RLHF pipeline powered by DeepSpeed ZeRO engines.
 
 ### 🎓 Courses
 

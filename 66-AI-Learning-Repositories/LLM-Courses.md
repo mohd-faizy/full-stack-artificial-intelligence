@@ -78,7 +78,7 @@
 - [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) — Build a large language model from scratch.
 - [Hands-on LLMs](https://github.com/iusztinpaul/hands-on-llms) — Learn about LLMs through building.
 - [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) — Free LLM engineering course.
-- [LLM Twin](https://github.com/decodingml/llm-twin-course) — Build your LLM twin.
+- [LLM Twin](https://github.com/decodingai-magazine/llm-twin-course) — Build your LLM twin.
 
 ### 🧪 Practice
 

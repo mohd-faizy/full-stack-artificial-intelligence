@@ -28,7 +28,7 @@
 
 ### 🎓 Courses
 
-- [Building Web Browsing Agents (Hugging Face Agents Course)](https://huggingface.co/learn/agents-course/unit3/introduction) — Tutorial on building multimodal web agents and evaluating task success.
+- [Building Web Browsing Agents (Hugging Face Agents Course)](https://huggingface.co/learn/agents-course/) — Tutorial on building multimodal web agents and evaluating task success.
 
 ### ▶️ YouTube — English
 

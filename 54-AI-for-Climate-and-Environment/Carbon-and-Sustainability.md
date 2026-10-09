@@ -46,7 +46,7 @@
 ### 💻 GitHub / Implementations
 
 - [CodeCarbon](https://github.com/mlco2/codecarbon) — Track CO2 emissions from computing.
-- [CarbonTracker](https://github.com/lfwa/carbontracker) — Energy and carbon tracking.
+- [CarbonTracker](https://github.com/saintslab/carbontracker) — Energy and carbon tracking.
 - [Zeus](https://github.com/ml-energy/zeus) — Energy optimization for DNN training.
 
 ## 📄 Foundational Papers

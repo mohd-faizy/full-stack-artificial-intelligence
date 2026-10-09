@@ -15,7 +15,7 @@
 
 ### 🥇 Best Overall
 
-- [Qwen (Alibaba Cloud) & DeepSeek AI](https://github.com/QwenLM/Qwen2.5)
+- [Qwen (Alibaba Cloud) & DeepSeek AI](https://github.com/QwenLM/Qwen3)
   - Type: Frontier Open Model Families
   - Language: English
   - Level: Intermediate

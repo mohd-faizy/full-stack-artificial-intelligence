@@ -53,7 +53,7 @@
 
 ### 📚 Books
 
-- [Vector Search for Practitioners by Pinecone](https://www.pinecone.io/learn/vector-search/) — The definitive guide to vector search theory, indexing architectures, and performance tuning.
+- [Vector Search for Practitioners by Pinecone](https://www.pinecone.io/learn/) — The definitive guide to vector search theory, indexing architectures, and performance tuning.
 
 ### 💻 GitHub / Implementations
 
@@ -74,7 +74,7 @@
 
 ### 🛠️ Projects
 
-- [Billion-Scale Multimodal Image Retrieval Engine](https://qdrant.tech/documentation/tutorials/image-search/) — Deploy Qdrant with Docker, index 100,000 OpenCLIP image embeddings with scalar quantization, and query with text.
+- [Billion-Scale Multimodal Image Retrieval Engine](https://qdrant.tech/documentation/) — Deploy Qdrant with Docker, index 100,000 OpenCLIP image embeddings with scalar quantization, and query with text.
 
 ## 🧭 Recommended Learning Path
 

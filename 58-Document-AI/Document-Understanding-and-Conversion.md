@@ -15,7 +15,7 @@
 
 ### 🥇 Best Overall
 
-- [Docling (IBM Research)](https://github.com/DS4SD/docling)
+- [Docling (IBM Research)](https://github.com/docling-project/docling)
   - Type: Document Conversion Engine
   - Language: English
   - Level: Intermediate
@@ -65,7 +65,7 @@
 
 ### 🛠️ Projects
 
-- [Complex Annual Report Financial Extractor](https://github.com/DS4SD/docling) — Use Docling to convert a 100-page corporate financial PDF into Markdown, preserving nested balance sheet tables for RAG.
+- [Complex Annual Report Financial Extractor](https://github.com/docling-project/docling) — Use Docling to convert a 100-page corporate financial PDF into Markdown, preserving nested balance sheet tables for RAG.
 
 ## 🧭 Recommended Learning Path
 

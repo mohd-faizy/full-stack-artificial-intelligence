@@ -14,7 +14,7 @@
 
 ### 🥇 Best Overall
 
-- [OpenHands (formerly OpenDevin)](https://github.com/All-Hands-AI/OpenHands)
+- [OpenHands (formerly OpenDevin)](https://github.com/OpenHands/OpenHands)
   - Type: Open-Source Autonomous Platform
   - Language: English
   - Level: Intermediate
@@ -48,7 +48,7 @@
 
 ### 💻 GitHub / Implementations
 
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) — Software development agents that can write code, fix bugs, and ship features.
+- [All-Hands-AI/OpenHands](https://github.com/OpenHands/OpenHands) — Software development agents that can write code, fix bugs, and ship features.
 - [MineDojo/Voyager](https://github.com/MineDojo/Voyager) — An open-ended embodied agent with Large Language Models in Minecraft.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) — The vision of accessible AI for everyone, to use and to build on.
 
@@ -63,7 +63,7 @@
 
 ### 🛠️ Projects
 
-- [Autonomous Pull Request Bug-Fixer](https://github.com/All-Hands-AI/OpenHands) — Deploy OpenHands connected to a test GitHub repository to clone issues, write reproducing tests, patch code, and submit PRs.
+- [Autonomous Pull Request Bug-Fixer](https://github.com/OpenHands/OpenHands) — Deploy OpenHands connected to a test GitHub repository to clone issues, write reproducing tests, patch code, and submit PRs.
 
 ## 🧭 Recommended Learning Path
 

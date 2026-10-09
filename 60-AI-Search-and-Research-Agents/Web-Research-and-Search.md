@@ -15,7 +15,7 @@
 
 ### 🥇 Best Overall
 
-- [Firecrawl](https://github.com/mendableai/firecrawl)
+- [Firecrawl](https://github.com/firecrawl/firecrawl)
   - Type: LLM Web Scraping Engine
   - Language: English
   - Level: Beginner
@@ -45,9 +45,9 @@
 
 ### 💻 GitHub / Implementations
 
-- [Perplexica](https://github.com/ItzCrazyKns/Perplexica) — Open-source AI-powered search engine.
+- [Perplexica](https://github.com/ItzCrazyKns/Vane) — Open-source AI-powered search engine.
 - [browser-use](https://github.com/browser-use/browser-use) — Browser automation for AI research.
-- [Firecrawl](https://github.com/mendableai/firecrawl) — Convert websites to AI-ready data.
+- [Firecrawl](https://github.com/firecrawl/firecrawl) — Convert websites to AI-ready data.
 - [SearXNG](https://github.com/searxng/searxng) — Privacy-respecting metasearch engine.
 - [Khoj](https://github.com/khoj-ai/khoj) — AI-powered research and search assistant.
 - [MindSearch](https://github.com/InternLM/MindSearch) — Multi-agent framework for web search.
@@ -58,7 +58,7 @@
 
 ### 🛠️ Projects
 
-- [Private Self-Hosted AI Search Portal](https://github.com/ItzCrazy-Blaze/Perplexica) — Deploy Perplexica and SearXNG with Docker Compose, connected to a local Llama 3 instance in Ollama.
+- [Private Self-Hosted AI Search Portal](https://github.com/ItzCrazyKns/Vane) — Deploy Perplexica and SearXNG with Docker Compose, connected to a local Llama 3 instance in Ollama.
 
 ## 🧭 Recommended Learning Path
 

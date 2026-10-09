@@ -44,11 +44,11 @@
 
 ### 📚 Books
 
-- [Optimal Control and Estimation](https://store.doverpublications.com/0486665798.html) — Robert Stengel classic text on Kalman filtering, linear quadratic regulators, and dynamic programming.
+- [Optimal Control and Estimation](https://stengel.mycpanel.princeton.edu/) — Robert Stengel classic text on Kalman filtering, linear quadratic regulators, and dynamic programming.
 
 ### 💻 GitHub / Implementations
 
-- [CommonRoad/commonroad-search](https://github.com/CommonRoad/commonroad-search) — Motion planning algorithms (A*, lattice planners, RRT*) for autonomous vehicles in Python.
+- [CommonRoad/commonroad-search](https://github.com/CommonRoad/commonroad-drivability-checker) — Motion planning algorithms (A*, lattice planners, RRT*) for autonomous vehicles in Python.
 - [motional/nuplan-devkit](https://github.com/motional/nuplan-devkit) — The official devkit for the nuPlan dataset and planning benchmark.
 
 ## 📄 Foundational Papers

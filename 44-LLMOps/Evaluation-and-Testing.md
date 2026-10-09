@@ -54,7 +54,7 @@
 - [Promptfoo](https://github.com/promptfoo/promptfoo) — LLM evaluation and red teaming.
 - [DeepEval](https://github.com/confident-ai/deepeval) — Unit testing framework for LLMs.
 - [Opik](https://github.com/comet-ml/opik) — Open-source LLM evaluation platform.
-- [Giskard](https://github.com/Giskard-AI/giskard) — Testing framework for ML and LLM models.
+- [Giskard](https://github.com/Giskard-AI/giskard-oss) — Testing framework for ML and LLM models.
 - [Continuous Eval](https://github.com/relari-ai/continuous-eval) — Evaluation pipeline for RAG.
 
 ### 🧪 Practice

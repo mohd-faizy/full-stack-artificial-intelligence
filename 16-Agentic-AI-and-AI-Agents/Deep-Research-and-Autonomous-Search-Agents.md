@@ -22,9 +22,9 @@
 
 ### 📖 Documentation & References
 
-- [STORM Documentation](https://stanford-oval.github.io/storm/) — Architecture, pre-writing interview workflows, and outline generation pipelines.
+- [STORM Documentation](https://github.com/stanford-oval/storm) — Architecture, pre-writing interview workflows, and outline generation pipelines.
 - [GPT Researcher Documentation](https://docs.gptr.dev/) — Autonomous agent designed for comprehensive online research on any topic.
-- [Open-DeepResearch (Hugging Face)](https://github.com/huggingface/open-deep-research) — Open-source reproduction of OpenAI's Deep Research using smolagents.
+- [Open-DeepResearch (Hugging Face)](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research) — Open-source reproduction of OpenAI's Deep Research using smolagents.
 
 ### 🎓 Courses
 
@@ -51,7 +51,7 @@
 
 - [stanford-oval/storm](https://github.com/stanford-oval/storm) — An LLM-powered knowledge curation system that researches topics and writes full reports.
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) — Autonomous agent that produces objective, detailed research reports.
-- [huggingface/open-deep-research](https://github.com/huggingface/open-deep-research) — Open-source Deep Research implementation using smolagents.
+- [huggingface/open-deep-research](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research) — Open-source Deep Research implementation using smolagents.
 
 ## 📄 Foundational Papers
 

@@ -27,7 +27,7 @@
 
 ### ▶️ YouTube — English
 
-- [Neel Nanda: Video Guides & Tutorials](https://www.youtube.com/@neelnanda)
+- [Neel Nanda: Video Guides & Tutorials](https://www.youtube.com/channel/UCBMJ0D-omcRay8dh4QT0doQ)
   - Channel: Neel Nanda
   - Language: English
   - Type: Playlist / Course
@@ -47,7 +47,7 @@
 
 - [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) — Library for mechanistic interpretability.
 - [SAELens](https://github.com/jbloomAus/SAELens) — Sparse autoencoder training and analysis.
-- [CircuitsVis](https://github.com/alan-cooney/CircuitsVis) — Visualization tools for interpretability.
+- [CircuitsVis](https://github.com/TransformerLensOrg/CircuitsVis) — Visualization tools for interpretability.
 - [pyvene](https://github.com/stanfordnlp/pyvene) — Intervention-based interpretability.
 - [nnsight](https://github.com/ndif-team/nnsight) — Remote neural network access and interpretation.
 - [Baukit](https://github.com/davidbau/baukit) — Tools for understanding neural networks.

@@ -50,7 +50,7 @@
 - [xFormers](https://github.com/facebookresearch/xformers) — Modular and hackable transformer components.
 - [FlexAttention](https://github.com/pytorch/pytorch) — Flexible attention in PyTorch.
 - [PagedAttention](https://github.com/vllm-project/vllm) — Memory-efficient attention for serving.
-- [Ring Attention](https://github.com/lhao499/RingAttention) — Blockwise attention for near-infinite context.
+- [Ring Attention](https://github.com/haoliuhl/ringattention) — Blockwise attention for near-infinite context.
 
 ## 📄 Foundational Papers
 

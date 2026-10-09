@@ -30,7 +30,7 @@
 
 ### 🎓 Courses
 
-- [Introduction to 3D Vision by Prof. Daniel Cremers (TUM)](https://vision.in.tum.de/teaching/ss2021/mvg_ss2021) — Rigorous university lectures on multiple view geometry, visual SLAM, and dense 3D reconstruction.
+- [Introduction to 3D Vision by Prof. Daniel Cremers (TUM)](https://vision.in.tum.de/) — Rigorous university lectures on multiple view geometry, visual SLAM, and dense 3D reconstruction.
 
 ### ▶️ YouTube — English
 

@@ -29,7 +29,7 @@
 
 ### 🎓 Courses
 
-- [Coursera: Automated Machine Learning (AutoML) Specialization](https://www.coursera.org/learn/automl) — Covers CASH problem formulation, neural architecture search, and automated pipelines.
+- [Coursera: Automated Machine Learning (AutoML) Specialization](https://cloud.google.com/vertex-ai/docs/beginner/beginners-guide) — Covers CASH problem formulation, neural architecture search, and automated pipelines.
 
 ### ▶️ YouTube — English
 

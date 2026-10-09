@@ -22,7 +22,7 @@
 
 ### 📖 Documentation & References
 
-- [Agent Protocol Documentation](https://agentprotocol.ai/docs) — OpenAPI specification for steps, tasks, artifacts, and agent communication.
+- [Agent Protocol Documentation](https://agentprotocol.ai/) — OpenAPI specification for steps, tasks, artifacts, and agent communication.
 - [FIPA-ACL Specification (IEEE)](http://www.fipa.org/repository/aclspecs.html) — Historical IEEE standard for inter-agent communication and speech act performatives.
 
 ### 🎓 Courses
@@ -56,7 +56,7 @@
 
 ### 🧪 Practice
 
-- [Agent Protocol Python Client](https://github.com/AI-Engineer-Foundation/agent-protocol/tree/main/packages/client) — Interact with any Agent Protocol-compliant agent using Python or TypeScript clients.
+- [Agent Protocol Python Client](https://github.com/agi-inc/agent-protocol/tree/main/packages/client) — Interact with any Agent Protocol-compliant agent using Python or TypeScript clients.
 
 ### 🛠️ Projects
 

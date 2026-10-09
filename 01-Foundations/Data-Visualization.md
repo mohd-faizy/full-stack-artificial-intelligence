@@ -30,7 +30,7 @@
 
 ### 🎓 Courses
 
-- [Data Visualization with Python (freeCodeCamp)](https://www.freecodecamp.org/news/data-analysis-with-python-course/) — Comprehensive free course covering Matplotlib, Seaborn, and Pandas visualization.
+- [Data Visualization with Python (freeCodeCamp)](https://www.freecodecamp.org/learn/data-analysis-with-python/) — Comprehensive free course covering Matplotlib, Seaborn, and Pandas visualization.
 
 ### ▶️ YouTube — English
 

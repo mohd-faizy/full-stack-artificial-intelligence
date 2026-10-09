@@ -48,7 +48,7 @@
 - [Lean 4](https://github.com/leanprover/lean4) — Functional programming language and theorem prover.
 - [Mathlib4](https://github.com/leanprover-community/mathlib4) — Mathematics library for Lean 4.
 - [Isabelle](https://github.com/isabelle-prover/mirror-isabelle) — Generic proof assistant.
-- [Coq](https://github.com/coq/coq) — Formal proof management system.
+- [Coq](https://github.com/rocq-prover/rocq) — Formal proof management system.
 
 ### 🧪 Practice
 

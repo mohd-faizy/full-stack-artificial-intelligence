@@ -46,7 +46,7 @@
 ### 💻 GitHub / Implementations
 
 - [CodeCarbon](https://github.com/mlco2/codecarbon) — Track carbon emissions from ML.
-- [CarbonTracker](https://github.com/lfwa/carbontracker) — Track energy and carbon footprint.
+- [CarbonTracker](https://github.com/saintslab/carbontracker) — Track energy and carbon footprint.
 - [Zeus](https://github.com/ml-energy/zeus) — Energy optimization for deep learning.
 - [Eco2AI](https://github.com/sb-ai-lab/Eco2AI) — Carbon emission tracking for ML.
 - [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker) — Track compute impact of experiments.

@@ -23,7 +23,7 @@
 ### 📖 Documentation & References
 
 - [Genesis Documentation](https://genesis-world.readthedocs.io/) — Installation, entity loading, robot kinematics, and GPU simulation guides.
-- [Google Brax Documentation](https://brax.readthedocs.io/) — Differentiable physics engine written in JAX, running millions of parallel steps on GPU/TPU.
+- [Google Brax Documentation](https://github.com/google/brax) — Differentiable physics engine written in JAX, running millions of parallel steps on GPU/TPU.
 - [Taichi Lang Documentation](https://docs.taichi-lang.org/) — Productive, high-performance parallel computing language for graphics and physical simulation.
 
 ### 🎓 Courses
@@ -59,7 +59,7 @@
 
 ### 🧪 Practice
 
-- [Genesis Quickstart Notebooks](https://github.com/Genesis-Embodied-AI/Genesis/tree/main/examples) — Simulate robotic arms grasping objects and fluid pouring in 30 lines of Python.
+- [Genesis Quickstart Notebooks](https://github.com/Genesis-Embodied-AI/genesis-world/tree/main/examples) — Simulate robotic arms grasping objects and fluid pouring in 30 lines of Python.
 
 ### 🛠️ Projects
 

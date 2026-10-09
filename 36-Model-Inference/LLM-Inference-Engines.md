@@ -50,9 +50,9 @@
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) — Efficient LLM inference in C/C++.
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) — NVIDIA-optimized inference.
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm) — Machine learning compilation for universal LLM deployment.
-- [ExLlamaV2](https://github.com/turboderp/exllamav2) — Fast inference for quantized models.
+- [ExLlamaV2](https://github.com/turboderp-org/exllamav2) — Fast inference for quantized models.
 - [CTranslate2](https://github.com/OpenNMT/CTranslate2) — Fast inference for transformer models.
-- [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) — Fast LLM serving with consumer GPUs.
+- [PowerInfer](https://github.com/Tiiny-AI/PowerInfer) — Fast LLM serving with consumer GPUs.
 - [llm.c](https://github.com/karpathy/llm.c) — LLM training and inference in pure C/CUDA.
 - [candle](https://github.com/huggingface/candle) — ML framework in Rust for fast inference.
 - [mistral.rs](https://github.com/EricLBuehler/mistral.rs) — Blazing-fast LLM inference in Rust.
@@ -64,7 +64,7 @@
 
 ### 🧪 Practice
 
-- [Deploy vLLM Docker Container](https://docs.vllm.ai/en/latest/serving/deploying_with_docker.html) — Launch an OpenAI-compatible REST server serving open-weights LLMs in one command.
+- [Deploy vLLM Docker Container](https://docs.vllm.ai/en/latest/deployment/docker.html) — Launch an OpenAI-compatible REST server serving open-weights LLMs in one command.
 
 ### 🛠️ Projects
 

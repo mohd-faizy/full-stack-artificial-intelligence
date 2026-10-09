@@ -57,7 +57,7 @@
 
 ### 🧪 Practice
 
-- [GPT Researcher Quickstart](https://docs.gptr.dev/docs/gpt-researcher/getting-started/quickstart) — Run a full 2,000-word autonomous research task on any topic in your terminal in 3 minutes.
+- [GPT Researcher Quickstart](https://docs.gptr.dev/) — Run a full 2,000-word autonomous research task on any topic in your terminal in 3 minutes.
 
 ### 🛠️ Projects
 

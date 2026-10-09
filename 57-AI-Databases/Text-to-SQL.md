@@ -57,7 +57,7 @@
 
 ### 🧪 Practice
 
-- [Vanna Colab Notebook](https://vanna.ai/docs/tutorial-notebooks/) — Connect to a sample Chinook database and test natural language queries in Google Colab.
+- [Vanna Colab Notebook](https://vanna.ai/docs/) — Connect to a sample Chinook database and test natural language queries in Google Colab.
 
 ### 🛠️ Projects
 

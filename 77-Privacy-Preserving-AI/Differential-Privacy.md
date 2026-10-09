@@ -28,7 +28,7 @@
 
 ### 🎓 Courses
 
-- [CS 860: Algorithms for Private Data Analysis](https://www.gautamkamath.com/courses/cs860-fa2020.html) — Full lecture notes, problem sets, and reading lists on differential privacy.
+- [CS 860: Algorithms for Private Data Analysis](http://www.gautamkamath.com/) — Full lecture notes, problem sets, and reading lists on differential privacy.
 
 ### ▶️ YouTube — English
 
@@ -49,7 +49,7 @@
 
 ### 💻 GitHub / Implementations
 
-- [pytorch/opacus](https://github.com/pytorch/opacus) — PyTorch's flagship DP-SGD implementation.
+- [pytorch/opacus](https://github.com/meta-pytorch/opacus) — PyTorch's flagship DP-SGD implementation.
 - [opendp/opendp](https://github.com/opendp/opendp) — A modular, versatile suite of differential privacy algorithms.
 
 ## 📄 Foundational Papers

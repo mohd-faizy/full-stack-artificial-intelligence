@@ -53,7 +53,7 @@
 
 - [Scrapy](https://github.com/scrapy/scrapy) — Fast web crawling framework.
 - [Crawlee](https://github.com/apify/crawlee) — Web scraping and browser automation.
-- [Firecrawl](https://github.com/mendableai/firecrawl) — Turn entire websites into LLM-ready markdown.
+- [Firecrawl](https://github.com/firecrawl/firecrawl) — Turn entire websites into LLM-ready markdown.
 - [Crawl4AI](https://github.com/unclecode/crawl4ai) — Open-source LLM-friendly web crawler.
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) — HTML and XML parsing library.
 - [newspaper3k](https://github.com/codelucas/newspaper) — News article scraping and curation.
@@ -62,7 +62,7 @@
 
 ### 🧪 Practice
 
-- [ScrapeOps Web Scraping Playground](https://scrapeops.io/web-scraping-playgrounds/) — Practice scraping fake e-commerce sites with pagination, logins, and dynamic content.
+- [ScrapeOps Web Scraping Playground](https://scrapeops.io/) — Practice scraping fake e-commerce sites with pagination, logins, and dynamic content.
 
 ### 🛠️ Projects
 

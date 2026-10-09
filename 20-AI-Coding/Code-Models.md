@@ -14,7 +14,7 @@
 
 ### 🥇 Best Overall
 
-- [Qwen2.5-Coder: Powerful Code Foundation Model](https://github.com/QwenLM/Qwen2.5-Coder)
+- [Qwen2.5-Coder: Powerful Code Foundation Model](https://github.com/QwenLM/Qwen3-Coder)
   - Type: Open-Source Model Family & Docs
   - Language: English
   - Level: Intermediate to Advanced
@@ -49,7 +49,7 @@
 
 ### 💻 GitHub / Implementations
 
-- [QwenLM/Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) — Qwen2.5-Coder is the code version of Qwen2.5, the open-source code LLM.
+- [QwenLM/Qwen2.5-Coder](https://github.com/QwenLM/Qwen3-Coder) — Qwen2.5-Coder is the code version of Qwen2.5, the open-source code LLM.
 - [deepseek-ai/DeepSeek-Coder-V2](https://github.com/deepseek-ai/DeepSeek-Coder-V2) — Breaking the Barrier of Closed-Source Models in Code Intelligence.
 - [bigcode-project/starcoder2](https://github.com/bigcode-project/starcoder2) — StarCoder2: Open-source code foundation models trained on 600+ programming languages.
 

@@ -15,7 +15,7 @@
 
 ### 🥇 Best Overall
 
-- [CogVideoX by THUDM / Zhipu AI](https://github.com/THUDM/CogVideo)
+- [CogVideoX by THUDM / Zhipu AI](https://github.com/zai-org/CogVideo)
   - Type: Foundation Model & Codebase
   - Language: English
   - Level: Intermediate to Advanced
@@ -73,7 +73,7 @@
 
 ### 🛠️ Projects
 
-- [Automated Cinematic Video Generation Pipeline](https://github.com/THUDM/CogVideo) — Build an automated pipeline generating 6-second video clips from LLM storyboards using CogVideoX.
+- [Automated Cinematic Video Generation Pipeline](https://github.com/zai-org/CogVideo) — Build an automated pipeline generating 6-second video clips from LLM storyboards using CogVideoX.
 
 ## 🧭 Recommended Learning Path
 
@@ -85,7 +85,7 @@
 
 ## ⭐ Top 3 Resources
 
-1. [CogVideoX (THUDM)](https://github.com/THUDM/CogVideo) — The most capable, open-source video generation model family available.
+1. [CogVideoX (THUDM)](https://github.com/zai-org/CogVideo) — The most capable, open-source video generation model family available.
 2. [AnimateDiff](https://github.com/guoyww/AnimateDiff) — Pioneering motion adapter bringing seamless animation to any 2D diffusion checkpoint.
 3. [Open-Sora (Colossal-AI)](https://github.com/hpcaitech/Open-Sora) — Leading community open-source reproduction of large-scale video transformer architectures.
 

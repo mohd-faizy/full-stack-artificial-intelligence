@@ -47,7 +47,7 @@
 
 - [ESM](https://github.com/facebookresearch/esm) — Protein language models by Meta.
 - [OpenFold](https://github.com/aqlaboratory/openfold) — Trainable AlphaFold2 reproduction.
-- [BioNeMo](https://github.com/NVIDIA/bionemo-framework) — Generative AI for biology by NVIDIA.
+- [BioNeMo](https://github.com/NVIDIA-BioNeMo/bionemo-recipes) — Generative AI for biology by NVIDIA.
 - [ColabFold](https://github.com/sokrypton/ColabFold) — Fast protein structure prediction.
 - [ProtTrans](https://github.com/agemagician/ProtTrans) — Protein language model.
 - [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) — Protein structure generation.

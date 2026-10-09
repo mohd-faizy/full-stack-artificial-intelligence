@@ -47,13 +47,13 @@
 
 - [Hugging Face Datasets](https://github.com/huggingface/datasets) — Access and share ML datasets.
 - [TensorFlow Datasets](https://github.com/tensorflow/datasets) — Collection of ML datasets.
-- [torchdata](https://github.com/pytorch/data) — PyTorch data loading library.
+- [torchdata](https://github.com/meta-pytorch/data) — PyTorch data loading library.
 - [FiftyOne](https://github.com/voxel51/fiftyone) — Dataset curation and model analysis.
 - [Activeloop Hub](https://github.com/activeloopai/deeplake) — Dataset format for AI.
 
 ### 🧪 Practice
 
-- [FiftyOne Interactive Quickstart](https://docs.voxel51.com/getting_started/quickstart.html) — Load a vision dataset and explore detection labels and embeddings in a local web app.
+- [FiftyOne Interactive Quickstart](https://docs.voxel51.com/getting_started/index.html) — Load a vision dataset and explore detection labels and embeddings in a local web app.
 
 ### 🛠️ Projects
 

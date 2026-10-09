@@ -48,8 +48,8 @@
 - [Accelerate](https://github.com/huggingface/accelerate) — Simple distributed training abstraction.
 - [Lightning](https://github.com/Lightning-AI/pytorch-lightning) — PyTorch training at scale.
 - [Composer](https://github.com/mosaicml/composer) — MosaicML's training efficiency library.
-- [Levanter](https://github.com/stanford-crfm/levanter) — Scalable JAX training library.
-- [MaxText](https://github.com/google/maxtext) — Simple, performant LLM training in JAX.
+- [Levanter](https://github.com/marin-community/levanter) — Scalable JAX training library.
+- [MaxText](https://github.com/AI-Hypercomputer/maxtext) — Simple, performant LLM training in JAX.
 - [EasyLM](https://github.com/young-geng/EasyLM) — JAX/Flax based LLM training.
 
 ### 🧪 Practice

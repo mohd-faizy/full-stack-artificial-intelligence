@@ -50,9 +50,9 @@
 - [AutoAWQ](https://github.com/casper-hansen/AutoAWQ) — AWQ quantization implementation.
 - [bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) — 8-bit and 4-bit quantization.
 - [GPTQ](https://github.com/IST-DASLab/gptq) — Accurate post-training quantization research.
-- [GGUF/GGML](https://github.com/ggerganov/ggml) — Tensor library for efficient quantized inference.
+- [GGUF/GGML](https://github.com/ggml-org/ggml) — Tensor library for efficient quantized inference.
 - [Quanto](https://github.com/huggingface/optimum-quanto) — PyTorch quantization library.
-- [HQQ](https://github.com/mobiusml/hqq) — Half-quadratic quantization.
+- [HQQ](https://github.com/dropbox/hqq) — Half-quadratic quantization.
 - [AQLM](https://github.com/Vahe1994/AQLM) — Additive quantization for language models.
 - [QuIP#](https://github.com/Cornell-RelaxML/quip-sharp) — Quantization with incoherence processing.
 - [SmoothQuant](https://github.com/mit-han-lab/smoothquant) — Accurate and efficient post-training quantization.

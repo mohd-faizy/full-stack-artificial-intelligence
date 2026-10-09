@@ -14,7 +14,7 @@
 
 ### 🥇 Best Overall
 
-- [Logic Tensor Networks (LTN) Documentation](https://logictensornetworks.github.io/)
+- [Logic Tensor Networks (LTN) Documentation](https://github.com/logictensornetworks/logictensornetworks)
   - Type: Official Docs & Tutorials
   - Language: English
   - Level: Advanced
@@ -22,7 +22,7 @@
 
 ### 📖 Documentation & References
 
-- [Logic Tensor Networks (LTN)](https://logictensornetworks.github.io/) — Documentation, mathematical foundations, and code examples for learning with Real Logic.
+- [Logic Tensor Networks (LTN)](https://github.com/logictensornetworks/logictensornetworks) — Documentation, mathematical foundations, and code examples for learning with Real Logic.
 - [DeepProbLog Repository & Tutorials](https://github.com/ML-KULeuven/deepproblog) — Framework that integrates ProbLog logic programming with PyTorch neural networks.
 - [IBM Logical Neural Networks (LNN)](https://github.com/IBM/LNN) — Novel neuro-symbolic framework where every neuron represents an explicit logical concept.
 

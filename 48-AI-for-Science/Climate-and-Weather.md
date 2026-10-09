@@ -15,7 +15,7 @@
 
 ### 🥇 Best Overall
 
-- [GraphCast (Google DeepMind)](https://github.com/google-deepmind/graphcast)
+- [GraphCast (Google DeepMind)](https://github.com/google-deepmind/weathernext)
   - Type: Global Weather Model
   - Language: English
   - Level: Advanced
@@ -46,7 +46,7 @@
 ### 💻 GitHub / Implementations
 
 - [ClimaX](https://github.com/microsoft/ClimaX) — Foundation model for weather and climate.
-- [GraphCast](https://github.com/google-deepmind/graphcast) — DeepMind's weather forecasting model.
+- [GraphCast](https://github.com/google-deepmind/weathernext) — DeepMind's weather forecasting model.
 - [FourCastNet](https://github.com/NVlabs/FourCastNet) — Global weather forecasting by NVIDIA.
 - [Pangu-Weather](https://github.com/198808xc/Pangu-Weather) — Huawei's weather forecasting model.
 
@@ -61,7 +61,7 @@
 
 ### 🛠️ Projects
 
-- [Global Extreme Temperature Forecast Pipeline](https://github.com/google-deepmind/graphcast) — Run GraphCast inference on live ECMWF atmospheric data and plot 2-meter temperature anomaly maps.
+- [Global Extreme Temperature Forecast Pipeline](https://github.com/google-deepmind/weathernext) — Run GraphCast inference on live ECMWF atmospheric data and plot 2-meter temperature anomaly maps.
 
 ## 🧭 Recommended Learning Path
 

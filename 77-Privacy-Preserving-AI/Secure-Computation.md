@@ -28,7 +28,7 @@
 
 ### 🎓 Courses
 
-- [Zama FHE Academy](https://www.zama.ai/fhe-academy) — Tutorials and educational videos on homomorphic encryption and privacy-preserving AI.
+- [Zama FHE Academy](https://www.zama.ai/) — Tutorials and educational videos on homomorphic encryption and privacy-preserving AI.
 
 ### ▶️ YouTube — English
 

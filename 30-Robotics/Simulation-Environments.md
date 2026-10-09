@@ -32,7 +32,7 @@
 
 ### ▶️ YouTube — English
 
-- [Google DeepMind: Video Guides & Tutorials](https://www.youtube.com/@DeepMind)
+- [Google DeepMind: Video Guides & Tutorials](https://www.youtube.com/@googledeepmind)
   - Channel: Google DeepMind
   - Language: English
   - Type: Tutorial
@@ -50,7 +50,7 @@
 ### 💻 GitHub / Implementations
 
 - [google-deepmind/mujoco](https://github.com/google-deepmind/mujoco) — Multi-Joint dynamics with Contact. A general purpose physics engine.
-- [haosulab/ManiSkill](https://github.com/haosulab/ManiSkill) — SOTA Open-Source SAPIEN & Isaac Sim manipulation benchmark.
+- [haosulab/ManiSkill](https://github.com/mani-skill/ManiSkill) — SOTA Open-Source SAPIEN & Isaac Sim manipulation benchmark.
 - [ARISE-Initiative/robosuite](https://github.com/ARISE-Initiative/robosuite) — A modular simulation framework for robot learning powered by MuJoCo.
 
 ## 📄 Foundational Papers
@@ -64,7 +64,7 @@
 
 ### 🛠️ Projects
 
-- [Sim-to-Real Franka Emika Peg-in-Hole Assembly](https://github.com/haosulab/ManiSkill) — Train a precision peg insertion policy in ManiSkill with domain randomization and evaluate zero-shot transfer.
+- [Sim-to-Real Franka Emika Peg-in-Hole Assembly](https://github.com/mani-skill/ManiSkill) — Train a precision peg insertion policy in ManiSkill with domain randomization and evaluate zero-shot transfer.
 
 ## 🧭 Recommended Learning Path
 

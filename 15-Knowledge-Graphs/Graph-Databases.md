@@ -64,7 +64,7 @@
 - [DGraph](https://github.com/dgraph-io/dgraph) — Distributed GraphQL database.
 - [Apache TinkerPop](https://github.com/apache/tinkerpop) — Graph computing framework.
 - [Memgraph](https://github.com/memgraph/memgraph) — In-memory graph database.
-- [TypeDB](https://github.com/vaticle/typedb) — Strongly-typed database with a reasoning engine.
+- [TypeDB](https://github.com/typedb/typedb) — Strongly-typed database with a reasoning engine.
 
 ### 🧪 Practice
 

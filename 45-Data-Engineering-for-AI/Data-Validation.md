@@ -50,7 +50,7 @@
 
 ### 💻 GitHub / Implementations
 
-- [Great Expectations](https://github.com/great-expectations/great_expectations) — Data validation and documentation.
+- [Great Expectations](https://github.com/fivetran/great_expectations) — Data validation and documentation.
 - [Pandera](https://github.com/unionai-oss/pandera) — DataFrame validation library.
 - [Cerberus](https://github.com/pyeve/cerberus) — Lightweight data validation.
 - [Pydantic](https://github.com/pydantic/pydantic) — Data validation using Python type annotations.

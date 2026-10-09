@@ -60,7 +60,7 @@
 
 ### 🛠️ Projects
 
-- [Guaranteed SQL Query Generator with GBNF](https://github.com/ggerganov/llama.cpp/tree/master/grammars) — Write a GBNF grammar for SQLite SELECT queries and run local inference with llama.cpp to guarantee 100% syntactically valid SQL.
+- [Guaranteed SQL Query Generator with GBNF](https://github.com/ggml-org/llama.cpp/tree/master/grammars) — Write a GBNF grammar for SQLite SELECT queries and run local inference with llama.cpp to guarantee 100% syntactically valid SQL.
 
 ## 🧭 Recommended Learning Path
 

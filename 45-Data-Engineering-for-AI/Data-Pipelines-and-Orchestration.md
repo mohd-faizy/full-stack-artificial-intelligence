@@ -55,7 +55,7 @@
 - [Prefect](https://github.com/PrefectHQ/prefect) — Modern workflow orchestration.
 - [Luigi](https://github.com/spotify/luigi) — Pipeline framework by Spotify.
 - [Mage AI](https://github.com/mage-ai/mage-ai) — Modern data pipeline tool.
-- [Hamilton](https://github.com/DAGWorks-Inc/hamilton) — Micro-orchestration framework for dataflows.
+- [Hamilton](https://github.com/apache/hamilton) — Micro-orchestration framework for dataflows.
 - [Kedro](https://github.com/kedro-org/kedro) — Framework for reproducible, maintainable ML code.
 
 ### 🧪 Practice

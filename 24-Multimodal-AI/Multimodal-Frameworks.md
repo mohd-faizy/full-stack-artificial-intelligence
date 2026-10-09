@@ -14,7 +14,7 @@
 
 ### 🥇 Best Overall
 
-- [vLLM Multimodal Serving Documentation](https://docs.vllm.ai/en/latest/models/multimodal_models.html)
+- [vLLM Multimodal Serving Documentation](https://docs.vllm.ai/en/latest/models/supported_models.html)
   - Type: Official Engine & Docs
   - Language: English
   - Level: Intermediate to Advanced
@@ -22,9 +22,9 @@
 
 ### 📖 Documentation & References
 
-- [vLLM Multimodal Docs](https://docs.vllm.ai/en/latest/models/multimodal_models.html) — Guides on serving vision-language models with OpenAI-compatible streaming endpoints.
+- [vLLM Multimodal Docs](https://docs.vllm.ai/en/latest/models/supported_models.html) — Guides on serving vision-language models with OpenAI-compatible streaming endpoints.
 - [Hugging Face Multimodal Pipeline](https://huggingface.co/docs/transformers/main_classes/pipelines) — Unified API for image-to-text, visual question answering, and document parsing.
-- [NVIDIA NeMo Multimodal](https://docs.nvidia.com/nemo-framework/user-guide/latest/multimodal/overview.html) — Enterprise framework for building, training, and fine-tuning multimodal foundation models.
+- [NVIDIA NeMo Multimodal](https://docs.nvidia.com/nemo-framework/) — Enterprise framework for building, training, and fine-tuning multimodal foundation models.
 
 ### 🎓 Courses
 
@@ -51,7 +51,7 @@
 
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) — A high-throughput and memory-efficient inference and serving engine for LLMs and VLMs.
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) — A scalable framework for building state-of-the-art conversational AI and multimodal foundation models.
-- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) — Unified efficient fine-tuning of 100+ LLMs & VLMs (LLaVA, Qwen-VL).
+- [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LlamaFactory) — Unified efficient fine-tuning of 100+ LLMs & VLMs (LLaVA, Qwen-VL).
 
 ## 📄 Foundational Papers
 
@@ -59,7 +59,7 @@
 
 ### 🧪 Practice
 
-- [LLaMA-Factory WebUI Multimodal Fine-Tuning](https://github.com/hiyouga/LLaMA-Factory) — Fine-tune a vision-language model on custom image-text pairs via an interactive web interface.
+- [LLaMA-Factory WebUI Multimodal Fine-Tuning](https://github.com/hiyouga/LlamaFactory) — Fine-tune a vision-language model on custom image-text pairs via an interactive web interface.
 
 ### 🛠️ Projects
 

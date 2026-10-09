@@ -46,7 +46,7 @@
 ### 💻 GitHub / Implementations
 
 - [ClimaX](https://github.com/microsoft/ClimaX) — Climate and weather foundation model.
-- [GraphCast](https://github.com/google-deepmind/graphcast) — ML-based weather forecasting.
+- [GraphCast](https://github.com/google-deepmind/weathernext) — ML-based weather forecasting.
 - [FourCastNet](https://github.com/NVlabs/FourCastNet) — Fourier forecasting neural network.
 - [Aurora](https://github.com/microsoft/aurora) — Foundation model for Earth system science.
 

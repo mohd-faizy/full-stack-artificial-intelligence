@@ -15,7 +15,7 @@
 
 ### 🥇 Best Overall
 
-- [Riskfolio-Lib](https://github.com/dcgerard/Riskfolio-Lib)
+- [Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib)
   - Type: Portfolio Optimization Library
   - Language: English
   - Level: Intermediate
@@ -54,7 +54,7 @@
 
 ### 🛠️ Projects
 
-- [Hierarchical Risk Parity Portfolio Allocator](https://github.com/dcgerard/Riskfolio-Lib) — Build an asset allocation optimizer using Riskfolio-Lib that clusters 20 global assets and minimizes drawdown during market crises.
+- [Hierarchical Risk Parity Portfolio Allocator](https://github.com/dcajasn/Riskfolio-Lib) — Build an asset allocation optimizer using Riskfolio-Lib that clusters 20 global assets and minimizes drawdown during market crises.
 
 ## 🧭 Recommended Learning Path
 

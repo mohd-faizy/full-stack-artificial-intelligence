@@ -53,7 +53,7 @@
 
 ### 🛠️ Projects
 
-- [Build a Voice-Controlled Desktop Agent with Claude Computer Use](https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo) — Deploy Anthropic's reference Docker container enabling Claude to autonomously navigate a virtual desktop.
+- [Build a Voice-Controlled Desktop Agent with Claude Computer Use](https://github.com/anthropics/claude-quickstarts/tree/main/computer-use-demo) — Deploy Anthropic's reference Docker container enabling Claude to autonomously navigate a virtual desktop.
 
 ## ⭐ Top 3 Resources
 

@@ -22,7 +22,7 @@
 
 ### 📖 Documentation & References
 
-- [AudioLDM 2 Documentation](https://haoheliu.github.io/audioldm2-full/) — Audio samples, architecture details, and Hugging Face Diffusers integration.
+- [AudioLDM 2 Documentation](https://github.com/haoheliu/AudioLDM2) — Audio samples, architecture details, and Hugging Face Diffusers integration.
 - [AudioGen Documentation (Meta AI)](https://facebookresearch.github.io/audiocraft/api_docs/audiocraft/models/audiogen.html) — Meta's autoregressive sound effect generation model.
 
 ### 🎓 Courses

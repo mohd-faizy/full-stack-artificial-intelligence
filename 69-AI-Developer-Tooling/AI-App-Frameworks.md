@@ -49,7 +49,7 @@
 - [Streamlit](https://github.com/streamlit/streamlit) — Data apps in minutes.
 - [Chainlit](https://github.com/Chainlit/chainlit) — Build conversational AI apps.
 - [Panel](https://github.com/holoviz/panel) — Dashboarding and app framework.
-- [Mesop](https://github.com/google/mesop) — Build web apps with Python by Google.
+- [Mesop](https://github.com/mesop-dev/mesop) — Build web apps with Python by Google.
 - [NiceGUI](https://github.com/zauberzeug/nicegui) — Easy-to-use Python UI framework.
 
 ### 🧪 Practice

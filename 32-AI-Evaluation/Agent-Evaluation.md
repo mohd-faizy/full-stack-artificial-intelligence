@@ -63,7 +63,7 @@
 
 ### 🛠️ Projects
 
-- [Build a Sandboxed Agent Test Harness](https://github.com/princeton-nlp/SWE-agent) — Run SWE-agent in Docker to test autonomous issue resolution against SWE-bench Lite.
+- [Build a Sandboxed Agent Test Harness](https://github.com/SWE-agent/SWE-agent) — Run SWE-agent in Docker to test autonomous issue resolution against SWE-bench Lite.
 
 ## 🧭 Recommended Learning Path
 

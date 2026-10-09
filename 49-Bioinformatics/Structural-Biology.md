@@ -23,7 +23,7 @@
 
 ### 🎓 Courses
 
-- [EMBL-EBI: Structural Bioinformatics](https://www.ebi.ac.uk/training/online/courses/structural-bioinformatics/) — Free course covering macromolecular structures, PDB files, and structure evaluation.
+- [EMBL-EBI: Structural Bioinformatics](https://www.ebi.ac.uk/training/) — Free course covering macromolecular structures, PDB files, and structure evaluation.
 
 ### ▶️ YouTube — English
 

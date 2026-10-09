@@ -95,7 +95,7 @@
 
 ### 🛠️ Projects
 
-- [Customer Support Escalation Agent](https://langchain-ai.github.io/langgraph/tutorials/customer-support/) — Build a multi-agent customer support desk that searches docs, queries CRM databases, and pauses for human supervisor sign-off.
+- [Customer Support Escalation Agent](https://langchain-ai.github.io/langgraph/tutorials/customer-support/customer-support/) — Build a multi-agent customer support desk that searches docs, queries CRM databases, and pauses for human supervisor sign-off.
 
 ## 🧭 Recommended Learning Path
 

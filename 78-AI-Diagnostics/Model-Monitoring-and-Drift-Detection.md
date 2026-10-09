@@ -63,7 +63,7 @@
 
 ### 🛠️ Projects
 
-- [Real-Time Production Drift Monitoring Service](https://docs.evidentlyai.com/integrations/grafana_monitoring) — Deploy an inference monitoring microservice that pushes drift metrics to Prometheus and visualizes live covariate shifts in Grafana.
+- [Real-Time Production Drift Monitoring Service](https://docs.evidentlyai.com/) — Deploy an inference monitoring microservice that pushes drift metrics to Prometheus and visualizes live covariate shifts in Grafana.
 
 ## 🧭 Recommended Learning Path
 

@@ -59,7 +59,7 @@
 - [llama.cpp](https://github.com/ggml-org/llama.cpp) — Efficient local LLM inference in C/C++.
 - [MLC LLM](https://github.com/mlc-ai/mlc-llm) — Universal LLM deployment on any device.
 - [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) — NVIDIA-optimized LLM inference.
-- [ExLlamaV2](https://github.com/turboderp/exllamav2) — Fast inference library for local LLMs.
+- [ExLlamaV2](https://github.com/turboderp-org/exllamav2) — Fast inference library for local LLMs.
 - [CTranslate2](https://github.com/OpenNMT/CTranslate2) — Fast inference engine for transformer models.
 - [candle](https://github.com/huggingface/candle) — Minimalist ML framework in Rust.
 - [mistral.rs](https://github.com/EricLBuehler/mistral.rs) — Fast LLM inference in Rust.

@@ -15,7 +15,7 @@
 
 ### 🥇 Best Overall
 
-- [Hydra (Meta AI)](https://github.com/facebookresearch/hydra)
+- [Hydra (Meta AI)](https://github.com/hydra-ecosystem/hydra)
   - Type: Hierarchical Configuration Framework
   - Language: English
   - Level: Intermediate
@@ -51,7 +51,7 @@
 
 ### 🧪 Practice
 
-- [Hydra Quickstart Tutorial](https://hydra.cc/docs/tutorials/basic/your_first_hydra_app/simple_cli/) — Decorate a Python main function with `@hydra.main` and run your first config app in 3 minutes.
+- [Hydra Quickstart Tutorial](https://hydra.cc/docs/tutorials/intro/) — Decorate a Python main function with `@hydra.main` and run your first config app in 3 minutes.
 
 ### 🛠️ Projects
 

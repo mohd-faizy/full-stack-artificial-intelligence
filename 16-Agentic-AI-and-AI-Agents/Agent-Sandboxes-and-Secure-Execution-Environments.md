@@ -22,7 +22,7 @@
 
 ### 📖 Documentation & References
 
-- [E2B Official Documentation](https://e2b.dev/docs) — Guides on spawning sandboxes, executing code, streaming stdout/stderr, and rendering charts.
+- [E2B Official Documentation](https://docs.e2b.dev) — Guides on spawning sandboxes, executing code, streaming stdout/stderr, and rendering charts.
 - [Modal Documentation](https://modal.com/docs) — Serverless cloud compute platform running isolated containers for AI workflows.
 - [Open Interpreter Docs](https://docs.openinterpreter.com/) — Open-source, locally run implementation of OpenAI's Code Interpreter.
 

@@ -49,7 +49,7 @@
 
 ### 💻 GitHub / Implementations
 
-- [adap/flower](https://github.com/adap/flower) — A unified approach to federated learning, analytics, and evaluation.
+- [adap/flower](https://github.com/flwrlabs/flower) — A unified approach to federated learning, analytics, and evaluation.
 - [FedML-AI/FedML](https://github.com/FedML-AI/FedML) — Federated learning library and MLOps platform for decentralized machine learning.
 
 ## 📄 Foundational Papers
@@ -59,11 +59,11 @@
 
 ### 🧪 Practice
 
-- [Flower Quickstart Examples](https://github.com/adap/flower/tree/main/examples) — PyTorch, Hugging Face, scikit-learn, and JAX federated training examples.
+- [Flower Quickstart Examples](https://github.com/flwrlabs/flower/tree/main/examples) — PyTorch, Hugging Face, scikit-learn, and JAX federated training examples.
 
 ### 🛠️ Projects
 
-- [Federated LLM Fine-Tuning on Edge Nodes](https://github.com/adap/flower/tree/main/examples/quickstart-huggingface) — Fine-tune a language model across distributed clients without raw prompt data ever leaving individual nodes.
+- [Federated LLM Fine-Tuning on Edge Nodes](https://github.com/flwrlabs/flower/tree/main/examples/quickstart-huggingface) — Fine-tune a language model across distributed clients without raw prompt data ever leaving individual nodes.
 
 ## 🧭 Recommended Learning Path
 

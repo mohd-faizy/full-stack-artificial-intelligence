@@ -15,7 +15,7 @@
 
 ### 🥇 Best Overall
 
-- [OpenHands (All-Hands AI)](https://github.com/All-Hands-AI/OpenHands)
+- [OpenHands (All-Hands AI)](https://github.com/OpenHands/OpenHands)
   - Type: Autonomous Software Agent Platform
   - Language: English
   - Level: Intermediate
@@ -48,7 +48,7 @@
 - [OpenHands](https://github.com/OpenHands/OpenHands) — Agents that write and improve their own code.
 - [SWE-agent](https://github.com/SWE-agent/SWE-agent) — Agents that solve real GitHub issues.
 - [Voyager](https://github.com/MineDojo/Voyager) — LLM-powered lifelong learning agent.
-- [LATS](https://github.com/lapisrocks/LanguageAgentTreeSearch) — Language agent tree search.
+- [LATS](https://github.com/andyz245/LanguageAgentTreeSearch) — Language agent tree search.
 
 ## 📄 Foundational Papers
 
@@ -61,7 +61,7 @@
 
 ### 🛠️ Projects
 
-- [Autonomous Bug Resolver with SWE-agent](https://github.com/princeton-nlp/SWE-agent) — Point SWE-agent at an open issue in a Python repository and let it locate the bug, write a reproduction test, and submit a Git commit.
+- [Autonomous Bug Resolver with SWE-agent](https://github.com/SWE-agent/SWE-agent) — Point SWE-agent at an open issue in a Python repository and let it locate the bug, write a reproduction test, and submit a Git commit.
 
 ## 🧭 Recommended Learning Path
 

@@ -86,7 +86,7 @@
 
 ### 🧪 Practice
 
-- [crewAI Quickstart Tutorial](https://docs.crewai.com/how-to/Creating-a-Crew-and-kick-it-off/) — Create a 2-agent research and writer crew in 15 lines of Python.
+- [crewAI Quickstart Tutorial](https://docs.crewai.com/quickstart) — Create a 2-agent research and writer crew in 15 lines of Python.
 
 ### 🛠️ Projects
 

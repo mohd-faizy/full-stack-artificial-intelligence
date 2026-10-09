@@ -24,7 +24,7 @@
 ### 📖 Documentation & References
 
 - [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers/index) — The definitive documentation for loading, training, and running foundation models.
-- [Google MaxText (JAX/Flax)](https://github.com/google/maxtext) — High-performance, scalable open-source LLM framework written in JAX/Flax targeting Cloud TPUs and GPUs.
+- [Google MaxText (JAX/Flax)](https://github.com/AI-Hypercomputer/maxtext) — High-performance, scalable open-source LLM framework written in JAX/Flax targeting Cloud TPUs and GPUs.
 
 ### 🎓 Courses
 

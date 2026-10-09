@@ -14,7 +14,7 @@
 
 ### 🥇 Best Overall
 
-- [Evolving Neural Networks through Augmenting Topologies (Kenneth Stanley)](http://eplex.cs.ucf.edu/neat_page/)
+- [Evolving Neural Networks through Augmenting Topologies (Kenneth Stanley)](https://kenstanley.net/)
   - Type: Landmark Research & Resource Hub
   - Language: English
   - Level: Intermediate
@@ -23,7 +23,7 @@
 ### 📖 Documentation & References
 
 - [NEAT-Python Documentation](https://neat-python.readthedocs.io/) — Popular and well-documented Python implementation of the NEAT algorithm.
-- [EvoJAX Documentation](https://evojax.readthedocs.io/) — Hardware-accelerated neuroevolution toolkit running neural evolution entirely on GPU/TPU in JAX.
+- [EvoJAX Documentation](https://github.com/google/evojax) — Hardware-accelerated neuroevolution toolkit running neural evolution entirely on GPU/TPU in JAX.
 - [EvoTorch Documentation](https://evotorch.ai/) — PyTorch-based evolutionary computation library developed by IDSIA.
 
 ### 🎓 Courses

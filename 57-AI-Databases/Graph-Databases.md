@@ -56,7 +56,7 @@
 
 ### 🛠️ Projects
 
-- [Knowledge Graph RAG Pipeline](https://neo4j.com/developer/genai/) — Extract entities and relationships from enterprise documents with an LLM, store them in Neo4j, and query with Cypher.
+- [Knowledge Graph RAG Pipeline](https://neo4j.com/labs/genai-ecosystem/) — Extract entities and relationships from enterprise documents with an LLM, store them in Neo4j, and query with Cypher.
 
 ## 🧭 Recommended Learning Path
 

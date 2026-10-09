@@ -15,7 +15,7 @@
 
 ### 🥇 Best Overall
 
-- [Language Agent Tree Search (LATS)](https://github.com/lats-team/LATS)
+- [Language Agent Tree Search (LATS)](https://github.com/andyz245/LanguageAgentTreeSearch)
   - Type: Agent Planning Architecture
   - Language: English
   - Level: Advanced
@@ -49,7 +49,7 @@
 - [Voyager](https://github.com/MineDojo/Voyager) — LLM-based lifelong learning and planning agent.
 - [HuggingGPT](https://github.com/microsoft/JARVIS) — Task planning with LLMs and expert models.
 - [ToolLLM](https://github.com/OpenBMB/ToolBench) — Facilitating tool-use planning.
-- [LATS](https://github.com/lapisrocks/LanguageAgentTreeSearch) — Language agent tree search for planning.
+- [LATS](https://github.com/andyz245/LanguageAgentTreeSearch) — Language agent tree search for planning.
 
 ## 📄 Foundational Papers
 
@@ -62,7 +62,7 @@
 
 ### 🛠️ Projects
 
-- [Autonomous Travel Planning Agent with Backtracking](https://github.com/lats-team/LATS) — Build an agent that books flights, hotels, and itineraries, using tree search to find valid solutions when constraints conflict.
+- [Autonomous Travel Planning Agent with Backtracking](https://github.com/andyz245/LanguageAgentTreeSearch) — Build an agent that books flights, hotels, and itineraries, using tree search to find valid solutions when constraints conflict.
 
 ## 🧭 Recommended Learning Path
 

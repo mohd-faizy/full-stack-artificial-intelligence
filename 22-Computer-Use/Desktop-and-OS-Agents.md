@@ -49,7 +49,7 @@
 
 ### 💻 GitHub / Implementations
 
-- [anthropics/anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo) — Reference implementation of Computer Use with Claude in a Docker container.
+- [anthropics/anthropic-quickstarts](https://github.com/anthropics/claude-quickstarts/tree/main/computer-use-demo) — Reference implementation of Computer Use with Claude in a Docker container.
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) — A framework to enable multimodal models to operate a computer.
 - [bytedance/UI-TARS](https://github.com/bytedance/UI-TARS) — An open-source native GUI agent model for computer use.
 
@@ -60,11 +60,11 @@
 
 ### 🧪 Practice
 
-- [Anthropic Computer Use Docker Demo](https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo) — Run a sandboxed virtual desktop in Docker and watch Claude interact with Firefox and LibreOffice.
+- [Anthropic Computer Use Docker Demo](https://github.com/anthropics/claude-quickstarts/tree/main/computer-use-demo) — Run a sandboxed virtual desktop in Docker and watch Claude interact with Firefox and LibreOffice.
 
 ### 🛠️ Projects
 
-- [Autonomous Spreadsheet Processor](https://github.com/anthropics/anthropic-quickstarts) — Deploy a desktop agent that opens local Excel / LibreOffice, formats messy columns, computes sums, and saves PDF exports.
+- [Autonomous Spreadsheet Processor](https://github.com/anthropics/claude-quickstarts) — Deploy a desktop agent that opens local Excel / LibreOffice, formats messy columns, computes sums, and saves PDF exports.
 
 ## 🧭 Recommended Learning Path
 

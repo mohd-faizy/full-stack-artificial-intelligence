@@ -48,7 +48,7 @@
 - [MobileNet](https://github.com/tensorflow/models) — Efficient mobile vision models.
 - [EfficientNet](https://github.com/tensorflow/tpu) — Scalable efficient neural networks.
 - [TinyLlama](https://github.com/jzhang38/TinyLlama) — Small Llama model trained on 3T tokens.
-- [Phi](https://github.com/microsoft/phi-3cookbook) — Compact but powerful small language models.
+- [Phi](https://github.com/microsoft/PhiCookBook) — Compact but powerful small language models.
 - [SmolLM](https://github.com/huggingface/smollm) — Family of small language models.
 - [Gemma](https://github.com/google-deepmind/gemma) — Lightweight open models by Google.
 

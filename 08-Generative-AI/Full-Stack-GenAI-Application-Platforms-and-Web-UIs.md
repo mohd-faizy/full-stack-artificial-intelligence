@@ -65,7 +65,7 @@
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) — All-in-one AI enterprise desktop and server application with document chat.
 - [Jan](https://github.com/janhq/jan) — Open-source desktop ChatGPT alternative that runs 100% offline.
 - [Chatbox](https://github.com/chatboxai/chatbox) — Desktop client for multiple cutting-edge AI models and providers.
-- [text-generation-webui](https://github.com/oobabooga/text-generation-webui) — Gradio web interface for running local LLMs and multimodal models.
+- [text-generation-webui](https://github.com/oobabooga/textgen) — Gradio web interface for running local LLMs and multimodal models.
 
 ### 🧪 Practice
 

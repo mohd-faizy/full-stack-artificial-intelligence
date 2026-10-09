@@ -23,7 +23,7 @@
 
 ### 🎓 Courses
 
-- [MIT 6.S978: Adversarial Machine Learning](https://madry-lab.github.io/robustness-course/) — Aleksander Madry's seminal MIT course on robust optimization and adversarial examples.
+- [MIT 6.S978: Adversarial Machine Learning](https://github.com/MadryLab) — Aleksander Madry's seminal MIT course on robust optimization and adversarial examples.
 
 ### ▶️ YouTube — English
 
@@ -41,7 +41,7 @@
 
 ### 📚 Books
 
-- [Adversarial Robustness by Aleksander Madry (MIT Course Notes)](https://madry-lab.github.io/robustness-course/) — The definitive mathematical treatment of minimax formulation for adversarial robustness.
+- [Adversarial Robustness by Aleksander Madry (MIT Course Notes)](https://github.com/MadryLab) — The definitive mathematical treatment of minimax formulation for adversarial robustness.
 
 ### 💻 GitHub / Implementations
 

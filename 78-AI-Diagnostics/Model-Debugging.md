@@ -49,7 +49,7 @@
 
 ### 💻 GitHub / Implementations
 
-- [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard) — Open-source testing and evaluation library for ML models and LLMs.
+- [Giskard-AI/giskard](https://github.com/Giskard-AI/giskard-oss) — Open-source testing and evaluation library for ML models and LLMs.
 - [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks) — Validation and testing for machine learning models and data.
 
 ## 📄 Foundational Papers
@@ -63,7 +63,7 @@
 
 ### 🛠️ Projects
 
-- [Automated Pre-Deployment Model Bug Scanner](https://github.com/Giskard-AI/giskard) — Integrate Giskard into a CI/CD pipeline to scan a fine-tuned customer support classifier for data leakage and performance dips.
+- [Automated Pre-Deployment Model Bug Scanner](https://github.com/Giskard-AI/giskard-oss) — Integrate Giskard into a CI/CD pipeline to scan a fine-tuned customer support classifier for data leakage and performance dips.
 
 ## 🧭 Recommended Learning Path
 

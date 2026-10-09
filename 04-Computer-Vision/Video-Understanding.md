@@ -15,7 +15,7 @@
 
 ### 🥇 Best Overall
 
-- [VideoMAE & VideoMAE V2 (Masked Autoencoders for Video)](https://github.com/OpenGVLab/VideoMAE)
+- [VideoMAE & VideoMAE V2 (Masked Autoencoders for Video)](https://github.com/MCG-NJU/VideoMAE)
   - Type: Repository & Research Paper
   - Language: English
   - Level: Intermediate to Advanced
@@ -25,7 +25,7 @@
 
 - [MMTracking / MMAction2 Documentation (OpenMMLab)](https://mmaction2.readthedocs.io/) — Comprehensive open-source video understanding and action recognition toolbox.
 - [Decord Documentation](https://github.com/dmlc/decord) — Efficient video reader designed specifically for deep learning with random frame seeking.
-- [ByteTrack Documentation](https://github.com/ifzhang/ByteTrack) — Simple, high-performance multi-object tracker associating every detection box.
+- [ByteTrack Documentation](https://github.com/FoundationVision/ByteTrack) — Simple, high-performance multi-object tracker associating every detection box.
 
 ### 🎓 Courses
 
@@ -60,11 +60,11 @@
 
 ### 🧪 Practice
 
-- [Kinetics-400 Action Recognition Benchmark](https://www.deepmind.com/open-source/kinetics) — The standard large-scale video dataset for training action recognition models.
+- [Kinetics-400 Action Recognition Benchmark](https://github.com/cvdfoundation/kinetics-dataset) — The standard large-scale video dataset for training action recognition models.
 
 ### 🛠️ Projects
 
-- [Real-Time Traffic Analytics & Vehicle Trajectory Tracking](https://github.com/ifzhang/ByteTrack) — Deploy YOLOv8 with ByteTrack to track vehicles across camera feeds, computing velocities and lane violations.
+- [Real-Time Traffic Analytics & Vehicle Trajectory Tracking](https://github.com/FoundationVision/ByteTrack) — Deploy YOLOv8 with ByteTrack to track vehicles across camera feeds, computing velocities and lane violations.
 
 ## 🧭 Recommended Learning Path
 
@@ -76,7 +76,7 @@
 
 ## ⭐ Top 3 Resources
 
-1. [ByteTrack](https://github.com/ifzhang/ByteTrack) — The premier real-time multi-object tracking algorithm used in production.
+1. [ByteTrack](https://github.com/FoundationVision/ByteTrack) — The premier real-time multi-object tracking algorithm used in production.
 2. [MMAction2](https://github.com/open-mmlab/mmaction2) — The most exhaustive open-source research toolbox for action recognition.
-3. [VideoMAE (OpenGVLab)](https://github.com/OpenGVLab/VideoMAE) — Seminal self-supervised foundation model for modern video understanding.
+3. [VideoMAE (OpenGVLab)](https://github.com/MCG-NJU/VideoMAE) — Seminal self-supervised foundation model for modern video understanding.
 

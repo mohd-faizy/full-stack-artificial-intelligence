@@ -82,7 +82,7 @@
 
 ### 🛠️ Projects
 
-- [Custom Domain Assistant Modelfile](https://github.com/ollama/ollama/blob/main/docs/modelfile.md) — Create an Ollama Modelfile with a custom system prompt, temperature, and few-shot examples, and publish it locally.
+- [Custom Domain Assistant Modelfile](https://github.com/ollama/ollama/blob/main/docs/modelfile.mdx) — Create an Ollama Modelfile with a custom system prompt, temperature, and few-shot examples, and publish it locally.
 
 ## 🧭 Recommended Learning Path
 

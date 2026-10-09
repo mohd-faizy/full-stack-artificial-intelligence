@@ -52,7 +52,7 @@
 
 ### 🧪 Practice
 
-- [PrivateGPT Ingestion Guide](https://docs.privategpt.dev/manual/ingestion/ingesting-files) — Ingest a folder of PDFs and run semantic queries from your terminal.
+- [PrivateGPT Ingestion Guide](https://docs.privategpt.dev/) — Ingest a folder of PDFs and run semantic queries from your terminal.
 
 ### 🛠️ Projects
 

@@ -50,7 +50,7 @@
 ### 💻 GitHub / Implementations
 
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) — aider is AI pair programming in your terminal.
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) — SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering.
+- [princeton-nlp/SWE-agent](https://github.com/SWE-agent/SWE-agent) — SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering.
 - [cline/cline](https://github.com/cline/cline) — Autonomous coding agent right in your IDE, capable of creating/editing files and executing commands.
 
 ## 📄 Foundational Papers
@@ -63,7 +63,7 @@
 
 ### 🛠️ Projects
 
-- [Autonomous Bug Fixer Bot for GitHub Issues](https://github.com/princeton-nlp/SWE-agent) — Set up SWE-agent to monitor a repo's bug tracker, checkout branches, reproduce failures with pytest, patch code, and open PRs.
+- [Autonomous Bug Fixer Bot for GitHub Issues](https://github.com/SWE-agent/SWE-agent) — Set up SWE-agent to monitor a repo's bug tracker, checkout branches, reproduce failures with pytest, patch code, and open PRs.
 
 ## 🧭 Recommended Learning Path
 

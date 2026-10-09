@@ -54,7 +54,7 @@
 
 ### 🧪 Practice
 
-- [Instructor Interactive Quickstart](https://python.useinstructor.com/hub/quickstart/) — Extract structured user profiles from raw text with Pydantic in 10 lines of Python.
+- [Instructor Interactive Quickstart](https://python.useinstructor.com/) — Extract structured user profiles from raw text with Pydantic in 10 lines of Python.
 
 ### 🛠️ Projects
 

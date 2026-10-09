@@ -51,7 +51,7 @@
 
 - [livekit/agents](https://github.com/livekit/agents) — Build real-time voice and multimodal AI applications on LiveKit.
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) — Open-source framework for voice and multimodal conversational AI.
-- [OPEN-AIR-LAB/mini-omni](https://github.com/OPEN-AIR-LAB/mini-omni) — Open-source multimodal large language model that can hear, talk and think simultaneously.
+- [OPEN-AIR-LAB/mini-omni](https://github.com/gpt-omni/mini-omni) — Open-source multimodal large language model that can hear, talk and think simultaneously.
 
 ## 📄 Foundational Papers
 

@@ -58,7 +58,7 @@
 
 ### 🧪 Practice
 
-- [vLLM Speculative Decoding CLI](https://docs.vllm.ai/en/latest/models/speculative_decoding.html) — Launch vLLM with `--speculative-model` and measure tokens/sec gains on local GPUs.
+- [vLLM Speculative Decoding CLI](https://docs.vllm.ai/en/latest/features/speculative_decoding.html) — Launch vLLM with `--speculative-model` and measure tokens/sec gains on local GPUs.
 
 ### 🛠️ Projects
 

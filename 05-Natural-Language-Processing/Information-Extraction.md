@@ -59,7 +59,7 @@
 
 ### 🧪 Practice
 
-- [CoNLL-2003 Dataset](https://huggingface.co/datasets/conll2003) — The standard academic benchmark for evaluating named entity recognition models.
+- [CoNLL-2003 Dataset](https://huggingface.co/datasets/eriktks/conll2003) — The standard academic benchmark for evaluating named entity recognition models.
 
 ### 🛠️ Projects
 

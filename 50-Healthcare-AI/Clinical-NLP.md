@@ -62,7 +62,7 @@
 
 ### 🛠️ Projects
 
-- [Automated Clinical De-identification Pipeline](https://github.com/facebookresearch/SpanMarkerNER) — Build a HIPAA-compliant PHI redactor that identifies patient names, dates, and locations from clinical notes.
+- [Automated Clinical De-identification Pipeline](https://github.com/tomaarsen/SpanMarkerNER) — Build a HIPAA-compliant PHI redactor that identifies patient names, dates, and locations from clinical notes.
 
 ## 🧭 Recommended Learning Path
 

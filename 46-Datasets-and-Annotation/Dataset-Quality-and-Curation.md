@@ -27,7 +27,7 @@
 
 ### ▶️ YouTube — English
 
-- [Cleanlab / MIT: Video Guides & Tutorials](https://www.youtube.com/@CleanlabAI)
+- [Cleanlab / MIT: Video Guides & Tutorials](https://www.youtube.com/@Cleanlab)
   - Channel: Cleanlab / MIT
   - Language: English
   - Type: Lecture
@@ -46,7 +46,7 @@
 ### 💻 GitHub / Implementations
 
 - [Cleanlab](https://github.com/cleanlab/cleanlab) — Find and fix data issues automatically.
-- [Great Expectations](https://github.com/great-expectations/great_expectations) — Data quality validation.
+- [Great Expectations](https://github.com/fivetran/great_expectations) — Data quality validation.
 - [DataGradients](https://github.com/Deci-AI/data-gradients) — Computer vision dataset analysis.
 - [NeMo Curator](https://github.com/NVIDIA-NeMo/Curator) — Scalable data curation for LLMs.
 - [Lilac](https://github.com/lilacai/lilac) — AI-powered dataset curation.
@@ -61,7 +61,7 @@
 
 ### 🛠️ Projects
 
-- [Automated Pre-training Corpus Curation Pipeline](https://github.com/NVIDIA/NeMo-Curator) — Run MinHash LSH deduplication and language identification on 10GB of raw text using NeMo Curator.
+- [Automated Pre-training Corpus Curation Pipeline](https://github.com/NVIDIA-NeMo/Curator) — Run MinHash LSH deduplication and language identification on 10GB of raw text using NeMo Curator.
 
 ## 🧭 Recommended Learning Path
 

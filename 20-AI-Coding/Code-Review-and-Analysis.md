@@ -23,7 +23,7 @@
 ### 📖 Documentation & References
 
 - [PR-Agent Documentation](https://qodo-merge-docs.qodo.ai/) — Guides on commands: `/review`, `/describe`, `/improve`, and CI/CD installation.
-- [Semgrep Documentation](https://semgrep.dev/docs/) — Fast, open-source static analysis engine for finding bugs and enforcing code standards.
+- [Semgrep Documentation](https://docs.semgrep.dev/) — Fast, open-source static analysis engine for finding bugs and enforcing code standards.
 
 ### 🎓 Courses
 
@@ -48,7 +48,7 @@
 
 ### 💻 GitHub / Implementations
 
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) — An open-source tool for automated PR review, feedback, and suggestions.
+- [qodo-ai/pr-agent](https://github.com/The-PR-Agent/pr-agent) — An open-source tool for automated PR review, feedback, and suggestions.
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) — Fast, lightweight static analysis for many languages. Find bugs and enforce code standards.
 
 ## 📄 Foundational Papers
@@ -61,7 +61,7 @@
 
 ### 🛠️ Projects
 
-- [Automated Pre-Merge Security & Quality Gate](https://github.com/qodo-ai/pr-agent) — Build a GitHub Actions workflow that runs Semgrep to detect CVEs and PR-Agent to evaluate code readability and edge-case handling before merge.
+- [Automated Pre-Merge Security & Quality Gate](https://github.com/The-PR-Agent/pr-agent) — Build a GitHub Actions workflow that runs Semgrep to detect CVEs and PR-Agent to evaluate code readability and edge-case handling before merge.
 
 ## 🧭 Recommended Learning Path
 

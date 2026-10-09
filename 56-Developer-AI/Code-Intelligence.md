@@ -53,7 +53,7 @@
 
 ### 🧪 Practice
 
-- [Tree-sitter Online Playground](https://tree-sitter.github.io/tree-sitter/playground) — Type code in any language and inspect the generated syntax tree nodes in real time.
+- [Tree-sitter Online Playground](https://tree-sitter.github.io/tree-sitter/) — Type code in any language and inspect the generated syntax tree nodes in real time.
 
 ### 🛠️ Projects
 

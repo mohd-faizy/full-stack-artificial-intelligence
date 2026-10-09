@@ -58,7 +58,7 @@
 
 ### 🧪 Practice
 
-- [DSPy Optimizer Colab Walkthrough](https://dspy-docs.vercel.app/docs/quick-start/minimal-example) — Compile a prompt module with `BootstrapFewShotWithRandomSearch` on GSM8k in 15 minutes.
+- [DSPy Optimizer Colab Walkthrough](https://dspy.ai/) — Compile a prompt module with `BootstrapFewShotWithRandomSearch` on GSM8k in 15 minutes.
 
 ### 🛠️ Projects
 

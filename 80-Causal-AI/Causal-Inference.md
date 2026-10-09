@@ -51,7 +51,7 @@
 
 ### 💻 GitHub / Implementations
 
-- [pywhy/dowhy](https://github.com/pywhy/dowhy) — A library for causal inference that supports explicit modeling and testing of causal assumptions.
+- [pywhy/dowhy](https://github.com/py-why/dowhy) — A library for causal inference that supports explicit modeling and testing of causal assumptions.
 - [py-why/econml](https://github.com/py-why/econml) — ALICE (Automated Learning and Intelligence for Causal Economics) by Microsoft Research.
 
 ## 📄 Foundational Papers
@@ -61,7 +61,7 @@
 
 ### 🧪 Practice
 
-- [DoWhy Tutorial Notebooks](https://pywhy.org/dowhy/main/example_notebooks/tutorial.html) — Step-by-step notebooks implementing the 4-step causal workflow.
+- [DoWhy Tutorial Notebooks](https://www.pywhy.org/dowhy/) — Step-by-step notebooks implementing the 4-step causal workflow.
 
 ### 🛠️ Projects
 

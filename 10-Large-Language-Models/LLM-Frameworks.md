@@ -65,8 +65,8 @@
 - [Transformers](https://github.com/huggingface/transformers) — Transformer model ecosystem.
 - [LitGPT](https://github.com/Lightning-AI/litgpt) — Lightning-fast LLM training and fine-tuning.
 - [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) — Streamlined LLM fine-tuning.
-- [LlamaFactory](https://github.com/hiyouga/LLaMA-Factory) — Unified efficient LLM fine-tuning.
-- [text-generation-webui](https://github.com/oobabooga/text-generation-webui) — Gradio web UI for running LLMs.
+- [LlamaFactory](https://github.com/hiyouga/LlamaFactory) — Unified efficient LLM fine-tuning.
+- [text-generation-webui](https://github.com/oobabooga/textgen) — Gradio web UI for running LLMs.
 - [FastChat](https://github.com/lm-sys/FastChat) — Training, serving, and evaluating chatbots.
 - [unsloth](https://github.com/unslothai/unsloth) — 2x faster LLM fine-tuning with 80% less memory.
 

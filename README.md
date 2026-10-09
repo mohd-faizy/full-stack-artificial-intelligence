@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/mohd-faizy/the-ai-stack/stargazers"><img src="https://img.shields.io/github/stars/mohd-faizy/the-ai-stack?style=for-the-badge&logo=github&color=0969da" alt="Stars"></a>
+  <a href="https://github.com/mohd-faizy/the-ai-stack"><img src="https://img.shields.io/github/stars/mohd-faizy/the-ai-stack?style=for-the-badge&logo=github&color=0969da" alt="Stars"></a>
   <a href="https://github.com/mohd-faizy/the-ai-stack/network/members"><img src="https://img.shields.io/github/forks/mohd-faizy/the-ai-stack?style=for-the-badge&logo=github&color=0969da" alt="Forks"></a>
   <a href="https://github.com/mohd-faizy/the-ai-stack/issues"><img src="https://img.shields.io/github/issues/mohd-faizy/the-ai-stack?style=for-the-badge&logo=github&color=informational" alt="Issues"></a>
   <a href="https://github.com/mohd-faizy/the-ai-stack/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github" alt="PRs Welcome"></a>
@@ -431,7 +431,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 > 📖 *Curated Learning Guide:* [4.1 Core Vision — Study Guide, Courses & Repositories](04-Computer-Vision/Core-Vision.md)
 
 
-* [Computer-Vision-Zero-to-Hero](https://github.com/mohd-faizy/Computer-Vision-Zero-to-Hero) — Comprehensive collection of computer vision projects using OpenCV, PyTorch, and TensorFlow.
+* [applied-computer-vision-opencv](https://github.com/mohd-faizy/applied-computer-vision-opencv) — Comprehensive collection of computer vision projects using OpenCV, PyTorch, and TensorFlow.
 * [OpenCV](https://github.com/opencv/opencv) — Computer vision library with 2500+ optimized algorithms.
 * [scikit-image](https://github.com/scikit-image/scikit-image) — Image processing in Python.
 * [Kornia](https://github.com/kornia/kornia) — Differentiable computer vision library for PyTorch.
@@ -896,7 +896,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) — All-in-one AI enterprise desktop and server application with document chat.
 * [Jan](https://github.com/janhq/jan) — Open-source desktop ChatGPT alternative that runs 100% offline.
 * [Chatbox](https://github.com/chatboxai/chatbox) — Desktop client for multiple cutting-edge AI models and providers.
-* [text-generation-webui](https://github.com/oobabooga/text-generation-webui) — Gradio web interface for running local LLMs and multimodal models.
+* [text-generation-webui](https://github.com/oobabooga/textgen) — Gradio web interface for running local LLMs and multimodal models.
 
 ## 8.8 Generative UI & Frontend Builders
 
@@ -1049,8 +1049,8 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [Transformers](https://github.com/huggingface/transformers) — Transformer model ecosystem.
 * [LitGPT](https://github.com/Lightning-AI/litgpt) — Lightning-fast LLM training and fine-tuning.
 * [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) — Streamlined LLM fine-tuning.
-* [LlamaFactory](https://github.com/hiyouga/LLaMA-Factory) — Unified efficient LLM fine-tuning.
-* [text-generation-webui](https://github.com/oobabooga/text-generation-webui) — Gradio web UI for running LLMs.
+* [LlamaFactory](https://github.com/hiyouga/LlamaFactory) — Unified efficient LLM fine-tuning.
+* [text-generation-webui](https://github.com/oobabooga/textgen) — Gradio web UI for running LLMs.
 * [FastChat](https://github.com/lm-sys/FastChat) — Training, serving, and evaluating chatbots.
 * [unsloth](https://github.com/unslothai/unsloth) — 2x faster LLM fine-tuning with 80% less memory.
 
@@ -1063,7 +1063,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [llama.cpp](https://github.com/ggml-org/llama.cpp) — Efficient local LLM inference in C/C++.
 * [MLC LLM](https://github.com/mlc-ai/mlc-llm) — Universal LLM deployment on any device.
 * [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) — NVIDIA-optimized LLM inference.
-* [ExLlamaV2](https://github.com/turboderp/exllamav2) — Fast inference library for local LLMs.
+* [ExLlamaV2](https://github.com/turboderp-org/exllamav2) — Fast inference library for local LLMs.
 * [CTranslate2](https://github.com/OpenNMT/CTranslate2) — Fast inference engine for transformer models.
 * [candle](https://github.com/huggingface/candle) — Minimalist ML framework in Rust.
 * [mistral.rs](https://github.com/EricLBuehler/mistral.rs) — Fast LLM inference in Rust.
@@ -1076,9 +1076,9 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [Llama](https://github.com/meta-llama/llama) — Meta's Llama family of models.
 * [Llama 3](https://github.com/meta-llama/llama3) — Meta's latest Llama models.
 * [Mistral](https://github.com/mistralai/mistral-inference) — Mistral AI's inference reference.
-* [Qwen](https://github.com/QwenLM/Qwen2.5) — Alibaba's Qwen large language model.
+* [Qwen](https://github.com/QwenLM/Qwen3) — Alibaba's Qwen large language model.
 * [Gemma](https://github.com/google-deepmind/gemma) — Google's lightweight open models.
-* [Phi](https://github.com/microsoft/phi-3cookbook) — Microsoft's small language models.
+* [Phi](https://github.com/microsoft/PhiCookBook) — Microsoft's small language models.
 * [DeepSeek](https://github.com/deepseek-ai/DeepSeek-V3) — DeepSeek's open models.
 * [Yi](https://github.com/01-ai/Yi) — 01.AI's bilingual language models.
 * [InternLM](https://github.com/InternLM/InternLM) — Multilingual foundation model.
@@ -1105,7 +1105,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 * [LongRoPE](https://github.com/microsoft/LongRoPE) — Extending LLM context window.
 * [YaRN](https://github.com/jquesnelle/yarn) — Efficient context extension for transformers.
-* [LongLoRA](https://github.com/dvlab-research/LongLoRA) — Efficient fine-tuning for long-context LLMs.
+* [LongLoRA](https://github.com/JIA-Lab-research/LongLoRA) — Efficient fine-tuning for long-context LLMs.
 
 ---
 
@@ -1123,7 +1123,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 > 📖 *Curated Learning Guide:* [11.1 Text Embeddings — Study Guide, Courses & Repositories](11-Embeddings/Text-Embeddings.md)
 
 
-* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) — State-of-the-art text embeddings.
+* [Sentence Transformers](https://github.com/huggingface/sentence-transformers) — State-of-the-art text embeddings.
 * [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) — Embedding and reranking models (BGE).
 * [E5](https://github.com/microsoft/unilm) — Text representation research by Microsoft.
 * [Instructor](https://github.com/xlang-ai/instructor-embedding) — Task-aware text embeddings.
@@ -1220,7 +1220,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [Docling](https://github.com/docling-project/docling) — Document conversion and understanding.
 * [Marker](https://github.com/datalab-to/marker) — Convert documents to Markdown with high accuracy.
 * [Unstructured](https://github.com/Unstructured-IO/unstructured) — Pre-processing tools for unstructured data.
-* [LlamaParse](https://github.com/run-llama/llama_parse) — GenAI-native document parsing.
+* [LlamaParse](https://github.com/run-llama/llama_cloud_services) — GenAI-native document parsing.
 * [MegaParse](https://github.com/QuivrHQ/MegaParse) — Versatile document parser for LLM ingestion.
 
 ---
@@ -1294,7 +1294,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 * [Scrapy](https://github.com/scrapy/scrapy) — Fast web crawling framework.
 * [Crawlee](https://github.com/apify/crawlee) — Web scraping and browser automation.
-* [Firecrawl](https://github.com/mendableai/firecrawl) — Turn entire websites into LLM-ready markdown.
+* [Firecrawl](https://github.com/firecrawl/firecrawl) — Turn entire websites into LLM-ready markdown.
 * [Crawl4AI](https://github.com/unclecode/crawl4ai) — Open-source LLM-friendly web crawler.
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) — HTML and XML parsing library.
 * [newspaper3k](https://github.com/codelucas/newspaper) — News article scraping and curation.
@@ -1307,7 +1307,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 
 * [txtai](https://github.com/neuml/txtai) — All-in-one semantic search and RAG platform.
-* [Sentence Transformers](https://github.com/UKPLab/sentence-transformers) — Semantic similarity models.
+* [Sentence Transformers](https://github.com/huggingface/sentence-transformers) — Semantic similarity models.
 * [ColBERT](https://github.com/stanford-futuredata/ColBERT) — Efficient passage search via late interaction.
 * [Cohere Rerank](https://github.com/cohere-ai) — Neural reranking models.
 
@@ -1334,7 +1334,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [DGraph](https://github.com/dgraph-io/dgraph) — Distributed GraphQL database.
 * [Apache TinkerPop](https://github.com/apache/tinkerpop) — Graph computing framework.
 * [Memgraph](https://github.com/memgraph/memgraph) — In-memory graph database.
-* [TypeDB](https://github.com/vaticle/typedb) — Strongly-typed database with a reasoning engine.
+* [TypeDB](https://github.com/typedb/typedb) — Strongly-typed database with a reasoning engine.
 
 ## 15.2 Graph Machine Learning
 
@@ -1395,7 +1395,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [Swarm](https://github.com/openai/swarm) — Educational multi-agent orchestration framework exploring ergonomic agent handoffs.
 * [Haystack Agents](https://github.com/deepset-ai/haystack) — Production-ready agentic pipelines and tool calling in Haystack.
 * [DSPy](https://github.com/stanfordnlp/dspy) — Framework for compiling declarative LM modules into self-optimizing pipelines.
-* [ControlFlow](https://github.com/PrefectHQ/ControlFlow) — Task-centric agentic workflows with structured state management by Prefect.
+* [ControlFlow](https://github.com/prefect-archive/ControlFlow) — Task-centric agentic workflows with structured state management by Prefect.
 * [Agency](https://github.com/neurocult/agency) — Performant Go library for building autonomous multi-agent systems.
 * [txtai](https://github.com/neuml/txtai) — All-in-one AI platform for embeddings, semantic search, RAG, and agentic workflows.
 
@@ -1412,7 +1412,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [ReAct](https://github.com/ysymyth/ReAct) — Synergizing reasoning and acting in language models for general task solving.
 * [Reflexion](https://github.com/noahshinn/reflexion) — Reinforcement learning via verbal self-reflection and episodic memory.
 * [Tree of Thoughts (ToT)](https://github.com/princeton-nlp/tree-of-thought-llm) — Deliberate problem solving with language models via search trees.
-* [Language Agent Tree Search (LATS)](https://github.com/lapisrocks/LanguageAgentTreeSearch) — Integrating Monte Carlo tree search, reflection, and external feedback in agents.
+* [Language Agent Tree Search (LATS)](https://github.com/andyz245/LanguageAgentTreeSearch) — Integrating Monte Carlo tree search, reflection, and external feedback in agents.
 * [Self-Discover](https://github.com/catid/self-discover) — Groundbreaking reasoning architecture that discovers task-specific reasoning structures.
 * [Bespoke-Minicheck](https://github.com/Liyan06/MiniCheck) — High-speed factual verification and reasoning consistency checker.
 
@@ -1440,7 +1440,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [Open-DeepResearch](https://github.com/huggingface/smolagents) — Open-source reproduction of deep research agents using web search, synthesis, and report generation.
 * [STORM](https://github.com/stanford-oval/storm) — Knowledge curation agent by Stanford generating comprehensive Wikipedia-style research articles.
 * [GPT Researcher](https://github.com/assafelovic/gpt-researcher) — Autonomous agent designed for comprehensive online research and detailed report writing.
-* [Perplexica](https://github.com/ItzCrazyKns/Perplexica) — Privacy-focused AI-powered search engine and autonomous research assistant.
+* [Perplexica](https://github.com/ItzCrazyKns/Vane) — Privacy-focused AI-powered search engine and autonomous research assistant.
 * [MindSearch](https://github.com/InternLM/MindSearch) — Multi-agent web search engine mimicking human cognitive research workflows.
 * [DeepSearch](https://github.com/DS4SD/deepsearch-toolkit) — Autonomous multi-hop web exploration and document synthesis engine.
 * [Tavily Python](https://github.com/tavily-ai/tavily-python) — Search engine API custom-built for AI agents and LLM research pipelines.
@@ -1453,7 +1453,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [LiveKit Agents](https://github.com/livekit/agents) — Framework for building real-time, low-latency multimodal voice and video agents.
 * [Pipecat](https://github.com/pipecat-ai/pipecat) — Open-source framework for voice and multimodal conversational AI applications.
 * [Bolna](https://github.com/bolna-ai/bolna) — Production-ready voice AI agent framework for building autonomous phone calling agents.
-* [Vocode](https://github.com/vocodedev/vocode-python) — Open-source library for building voice-based AI applications and phone bots.
+* [Vocode](https://github.com/vocodedev/vocode-core) — Open-source library for building voice-based AI applications and phone bots.
 * [Ten Framework](https://github.com/TEN-framework/ten_framework) — Real-time multimodal agent framework with audio, video, and LLM orchestration.
 * [Ultravox](https://github.com/fixie-ai/ultravox) — Real-time multimodal speech language model designed for direct voice conversations.
 * [Mini-Omni](https://github.com/gpt-omni/mini-omni) — Voice-to-voice multimodal model with simultaneous speech processing.
@@ -1505,7 +1505,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 * [The AI Scientist](https://github.com/SakanaAI/AI-Scientist) — Fully automated framework for end-to-end scientific research, experimentation, and paper writing.
 * [Data Interpreter](https://github.com/geekan/MetaGPT) — Specialized code-interpreting agent for automated data science, analytics, and visualization.
-* [PR-Agent](https://github.com/Codium-ai/pr-agent) — Autonomous agent for automated pull request review, testing, and description generation.
+* [PR-Agent](https://github.com/The-PR-Agent/pr-agent) — Autonomous agent for automated pull request review, testing, and description generation.
 * [Sweep](https://github.com/sweepai/sweep) — Autonomous software engineer agent transforming GitHub issues into bug fixes and feature PRs.
 * [FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) — Open-source AI agent platform for financial analysis, forecasting, and quantitative trading.
 
@@ -1531,7 +1531,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [Swarm](https://github.com/openai/swarm) — Ergonomic multi-agent orchestration framework exploring lightweight agent handoffs.
 * [ChatDev](https://github.com/OpenBMB/ChatDev) — Virtual software company simulation with multi-agent design, coding, and testing.
 * [Magentic-One](https://github.com/microsoft/autogen) — Generalist multi-agent system by Microsoft solving open-ended web and file tasks.
-* [AutoAgents](https://github.com/Link-AGI/AutoAgents) — Framework to automatically generate, assign, and coordinate specialized agents.
+* [AutoAgents](https://github.com/OWD-AI/AutoAgents) — Framework to automatically generate, assign, and coordinate specialized agents.
 * [AgentVerse](https://github.com/OpenBMB/AgentVerse) — Versatile platform for multi-agent simulation and collaborative task solving.
 * [DyLAN](https://github.com/SALT-NLP/DyLAN) — Dynamic LLM agent network architecture for multi-agent reasoning.
 
@@ -1652,9 +1652,9 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [Aider](https://github.com/Aider-AI/aider) — AI pair programming in your terminal with git integration and repo mapping.
 * [SWE-agent](https://github.com/SWE-agent/SWE-agent) — Software engineering agent by Princeton that solves real-world GitHub issues.
 * [Cline](https://github.com/cline/cline) — Autonomous AI coding agent in VS Code capable of executing commands, editing files, and using MCP.
-* [Roo Code](https://github.com/RooVetGit/Roo-Code) — Powerful community-driven AI coding assistant and agent for VS Code.
+* [Roo Code](https://github.com/RooCodeInc/Roo-Code) — Powerful community-driven AI coding assistant and agent for VS Code.
 * [Continue](https://github.com/continuedev/continue) — Open-source AI code assistant for VS Code and JetBrains IDEs.
-* [OpenCode](https://github.com/sst/opencode) — Open-source terminal-based AI coding agent.
+* [OpenCode](https://github.com/anomalyco/opencode) — Open-source terminal-based AI coding agent.
 * [Tabby](https://github.com/TabbyML/tabby) — Self-hosted AI coding assistant with local model serving.
 * [Sweep](https://github.com/sweepai/sweep) — Autonomous AI software engineer for pull requests and bug fixes.
 * [Devika](https://github.com/stitionai/devika) — Agentic AI software engineer supporting multiple models and project planning.
@@ -1675,14 +1675,14 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [DeepSeek Coder](https://github.com/deepseek-ai/DeepSeek-Coder) — Open-source code intelligence models.
 * [WizardCoder](https://github.com/nlpxucan/WizardLM) — Empowering code LLMs with Evol-Instruct.
 * [Codestral](https://github.com/mistralai/mistral-inference) — Mistral's code-optimized models.
-* [Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) — Code-specialized Qwen models.
+* [Qwen2.5-Coder](https://github.com/QwenLM/Qwen3-Coder) — Code-specialized Qwen models.
 
 ## 20.3 Code Review & Analysis
 
 > 📖 *Curated Learning Guide:* [20.3 Code Review & Analysis — Study Guide, Courses & Repositories](20-AI-Coding/Code-Review-and-Analysis.md)
 
 
-* [PR-Agent](https://github.com/Codium-ai/pr-agent) — AI-powered pull request analysis.
+* [PR-Agent](https://github.com/The-PR-Agent/pr-agent) — AI-powered pull request analysis.
 * [CodeRabbit](https://github.com/coderabbitai) — AI code review platform.
 * [Sourcery](https://github.com/sourcery-ai) — AI-powered code quality.
 * [Semgrep](https://github.com/semgrep/semgrep) — Static analysis at ludicrous speed.
@@ -1707,7 +1707,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [Puppeteer](https://github.com/puppeteer/puppeteer) — Headless Chrome Node.js API for programmatic browser control.
 * [Selenium](https://github.com/SeleniumHQ/selenium) — Industry standard multi-browser automation suite.
 * [Cypress](https://github.com/cypress-io/cypress) — Next generation frontend testing tool built for modern web.
-* [Steel](https://github.com/steel-dev/steel-browser) — Open-source headless browser API designed specifically for AI agents.
+* [Steel](https://github.com/steel-dev/steel-browser-browser) — Open-source headless browser API designed specifically for AI agents.
 
 ## 21.2 AI Browser Agents
 
@@ -1738,7 +1738,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 > 📖 *Curated Learning Guide:* [22.1 Desktop & OS Agents — Study Guide, Courses & Repositories](22-Computer-Use/Desktop-and-OS-Agents.md)
 
 
-* [Anthropic Computer Use Demo](https://github.com/anthropics/anthropic-quickstarts) — Reference implementation for Claude 3.5 Sonnet computer use.
+* [Anthropic Computer Use Demo](https://github.com/anthropics/claude-quickstarts) — Reference implementation for Claude 3.5 Sonnet computer use.
 * [OpenHands](https://github.com/OpenHands/OpenHands) — Autonomous platform allowing AI agents to interact with shells, browsers, and desktop tools.
 * [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) — Open-source natural language interface for full local computer control.
 * [Self-Operating Computer](https://github.com/OthersideAI/self-operating-computer) — Framework enabling multimodal models to operate mouse and keyboard.
@@ -1801,7 +1801,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 > 📖 *Curated Learning Guide:* [23.3 MCP Clients & Host Integrations — Study Guide, Courses & Repositories](23-MCP-and-Agent-Protocols/MCP-Clients-and-Host-Integrations.md)
 
 
-* [Claude Desktop](https://github.com/anthropics/anthropic-quickstarts) — Flagship desktop application with native Model Context Protocol support.
+* [Claude Desktop](https://github.com/anthropics/claude-quickstarts) — Flagship desktop application with native Model Context Protocol support.
 * [Cursor](https://github.com/getcursor) — AI-native code editor with integrated MCP server support.
 * [Cline](https://github.com/cline/cline) — Autonomous coding agent extension for VS Code supporting custom MCP tools.
 * [LibreChat](https://github.com/danny-avila/LibreChat) — Open-source ChatGPT alternative with integrated MCP support.
@@ -1844,7 +1844,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 * [LLaVA](https://github.com/haotian-liu/LLaVA) — Large language and vision assistant.
 * [LLaVA-NeXT](https://github.com/LLaVA-VL/LLaVA-NeXT) — Next-gen vision-language models.
-* [Qwen-VL](https://github.com/QwenLM/Qwen2.5-VL) — Alibaba's vision-language model series.
+* [Qwen-VL](https://github.com/QwenLM/Qwen3-VL) — Alibaba's vision-language model series.
 * [InternVL](https://github.com/OpenGVLab/InternVL) — Scaling up vision foundation models.
 * [CogVLM](https://github.com/THUDM/CogVLM) — Visual language model by Tsinghua.
 * [MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) — Efficient multimodal LLM.
@@ -1984,7 +1984,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 * [AudioCraft / MusicGen](https://github.com/facebookresearch/audiocraft) — Text-to-music by Meta.
 * [Stable Audio](https://github.com/Stability-AI/stable-audio-tools) — Audio generation by Stability AI.
-* [Riffusion](https://github.com/riffusion/riffusion) — Real-time music generation with stable diffusion.
+* [Riffusion](https://github.com/riffusion/riffusion-hobby) — Real-time music generation with stable diffusion.
 * [MusicLM](https://github.com/lucidrains/musiclm-pytorch) — Implementation of Google's MusicLM.
 * [RAVE](https://github.com/acids-ircam/RAVE) — Real-time audio variational autoencoder.
 * [Magenta](https://github.com/magenta/magenta) — Music and art generation with ML by Google.
@@ -2375,7 +2375,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 * [TransformerLens](https://github.com/TransformerLensOrg/TransformerLens) — Library for mechanistic interpretability.
 * [SAELens](https://github.com/jbloomAus/SAELens) — Sparse autoencoder training and analysis.
-* [CircuitsVis](https://github.com/alan-cooney/CircuitsVis) — Visualization tools for interpretability.
+* [CircuitsVis](https://github.com/TransformerLensOrg/CircuitsVis) — Visualization tools for interpretability.
 * [pyvene](https://github.com/stanfordnlp/pyvene) — Intervention-based interpretability.
 * [nnsight](https://github.com/ndif-team/nnsight) — Remote neural network access and interpretation.
 * [Baukit](https://github.com/davidbau/baukit) — Tools for understanding neural networks.
@@ -2425,9 +2425,9 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [llama.cpp](https://github.com/ggml-org/llama.cpp) — Efficient LLM inference in C/C++.
 * [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) — NVIDIA-optimized inference.
 * [MLC LLM](https://github.com/mlc-ai/mlc-llm) — Machine learning compilation for universal LLM deployment.
-* [ExLlamaV2](https://github.com/turboderp/exllamav2) — Fast inference for quantized models.
+* [ExLlamaV2](https://github.com/turboderp-org/exllamav2) — Fast inference for quantized models.
 * [CTranslate2](https://github.com/OpenNMT/CTranslate2) — Fast inference for transformer models.
-* [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) — Fast LLM serving with consumer GPUs.
+* [PowerInfer](https://github.com/Tiiny-AI/PowerInfer) — Fast LLM serving with consumer GPUs.
 * [llm.c](https://github.com/karpathy/llm.c) — LLM training and inference in pure C/CUDA.
 * [candle](https://github.com/huggingface/candle) — ML framework in Rust for fast inference.
 * [mistral.rs](https://github.com/EricLBuehler/mistral.rs) — Blazing-fast LLM inference in Rust.
@@ -2477,9 +2477,9 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [AutoAWQ](https://github.com/casper-hansen/AutoAWQ) — AWQ quantization implementation.
 * [bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes) — 8-bit and 4-bit quantization.
 * [GPTQ](https://github.com/IST-DASLab/gptq) — Accurate post-training quantization research.
-* [GGUF/GGML](https://github.com/ggerganov/ggml) — Tensor library for efficient quantized inference.
+* [GGUF/GGML](https://github.com/ggml-org/ggml) — Tensor library for efficient quantized inference.
 * [Quanto](https://github.com/huggingface/optimum-quanto) — PyTorch quantization library.
-* [HQQ](https://github.com/mobiusml/hqq) — Half-quadratic quantization.
+* [HQQ](https://github.com/dropbox/hqq) — Half-quadratic quantization.
 * [AQLM](https://github.com/Vahe1994/AQLM) — Additive quantization for language models.
 * [QuIP#](https://github.com/Cornell-RelaxML/quip-sharp) — Quantization with incoherence processing.
 * [SmoothQuant](https://github.com/mit-han-lab/smoothquant) — Accurate and efficient post-training quantization.
@@ -2490,7 +2490,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 > 📖 *Curated Learning Guide:* [37.2 Efficient Formats — Study Guide, Courses & Repositories](37-Quantization/Efficient-Formats.md)
 
 
-* [GGML](https://github.com/ggerganov/ggml) — Tensor library optimized for transformer inference.
+* [GGML](https://github.com/ggml-org/ggml) — Tensor library optimized for transformer inference.
 * [GGUF](https://github.com/ggml-org/llama.cpp) — Binary format for quantized models.
 * [Safetensors](https://github.com/safetensors/safetensors) — Safe and fast tensor serialization format.
 
@@ -2526,8 +2526,8 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [Accelerate](https://github.com/huggingface/accelerate) — Simple distributed training abstraction.
 * [Lightning](https://github.com/Lightning-AI/pytorch-lightning) — PyTorch training at scale.
 * [Composer](https://github.com/mosaicml/composer) — MosaicML's training efficiency library.
-* [Levanter](https://github.com/stanford-crfm/levanter) — Scalable JAX training library.
-* [MaxText](https://github.com/google/maxtext) — Simple, performant LLM training in JAX.
+* [Levanter](https://github.com/marin-community/levanter) — Scalable JAX training library.
+* [MaxText](https://github.com/AI-Hypercomputer/maxtext) — Simple, performant LLM training in JAX.
 * [EasyLM](https://github.com/young-geng/EasyLM) — JAX/Flax based LLM training.
 
 ## 38.3 Data Parallel & Pipeline Parallel
@@ -2567,7 +2567,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 * [PEFT](https://github.com/huggingface/peft) — LoRA, QLoRA, AdaLoRA, and more.
 * [TRL](https://github.com/huggingface/trl) — Post-training with RLHF, DPO, SFT.
-* [LlamaFactory](https://github.com/hiyouga/LLaMA-Factory) — Unified fine-tuning of 100+ LLMs.
+* [LlamaFactory](https://github.com/hiyouga/LlamaFactory) — Unified fine-tuning of 100+ LLMs.
 * [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) — Streamlined LLM fine-tuning tool.
 * [unsloth](https://github.com/unslothai/unsloth) — Fine-tune LLMs 2x faster with 80% less memory.
 * [xtuner](https://github.com/InternLM/xtuner) — Efficient fine-tuning toolkit.
@@ -2626,11 +2626,11 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [Open WebUI](https://github.com/open-webui/open-webui) — Self-hosted ChatGPT-like interface.
 * [Jan](https://github.com/janhq/jan) — Open-source local AI assistant.
 * [LibreChat](https://github.com/danny-avila/LibreChat) — Enhanced ChatGPT clone with multi-provider support.
-* [LobeChat](https://github.com/lobehub/lobe-chat) — Modern AI chat framework.
+* [LobeChat](https://github.com/lobehub/lobehub) — Modern AI chat framework.
 * [Big-AGI](https://github.com/enricoros/big-AGI) — AI suite built for professionals.
 * [Chatbox](https://github.com/chatboxai/chatbox) — Desktop app for AI models.
 * [SillyTavern](https://github.com/SillyTavern/SillyTavern) — AI chat interface for role-playing.
-* [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) — Gradio web UI for LLMs.
+* [Text Generation WebUI](https://github.com/oobabooga/textgen) — Gradio web UI for LLMs.
 * [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) — All-in-one AI desktop app.
 
 ## 40.3 Local Knowledge & RAG
@@ -2666,7 +2666,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [NCNN](https://github.com/Tencent/ncnn) — High-performance neural network inference by Tencent.
 * [MNN](https://github.com/alibaba/MNN) — Mobile neural network inference engine.
 * [Paddle Lite](https://github.com/PaddlePaddle/Paddle-Lite) — Mobile and edge inference.
-* [AI Edge Torch](https://github.com/google-ai-edge/ai-edge-torch) — PyTorch models on edge via Google.
+* [AI Edge Torch](https://github.com/google-ai-edge/litert-torch) — PyTorch models on edge via Google.
 
 ## 41.2 Apple Silicon & macOS
 
@@ -2843,7 +2843,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [Promptfoo](https://github.com/promptfoo/promptfoo) — LLM evaluation and red teaming.
 * [DeepEval](https://github.com/confident-ai/deepeval) — Unit testing framework for LLMs.
 * [Opik](https://github.com/comet-ml/opik) — Open-source LLM evaluation platform.
-* [Giskard](https://github.com/Giskard-AI/giskard) — Testing framework for ML and LLM models.
+* [Giskard](https://github.com/Giskard-AI/giskard-oss) — Testing framework for ML and LLM models.
 * [Continuous Eval](https://github.com/relari-ai/continuous-eval) — Evaluation pipeline for RAG.
 
 ## 44.3 Cost & Token Management
@@ -2891,7 +2891,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [Prefect](https://github.com/PrefectHQ/prefect) — Modern workflow orchestration.
 * [Luigi](https://github.com/spotify/luigi) — Pipeline framework by Spotify.
 * [Mage AI](https://github.com/mage-ai/mage-ai) — Modern data pipeline tool.
-* [Hamilton](https://github.com/DAGWorks-Inc/hamilton) — Micro-orchestration framework for dataflows.
+* [Hamilton](https://github.com/apache/hamilton) — Micro-orchestration framework for dataflows.
 * [Kedro](https://github.com/kedro-org/kedro) — Framework for reproducible, maintainable ML code.
 
 ## 45.3 Data Validation
@@ -2899,7 +2899,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 > 📖 *Curated Learning Guide:* [45.3 Data Validation — Study Guide, Courses & Repositories](45-Data-Engineering-for-AI/Data-Validation.md)
 
 
-* [Great Expectations](https://github.com/great-expectations/great_expectations) — Data validation and documentation.
+* [Great Expectations](https://github.com/fivetran/great_expectations) — Data validation and documentation.
 * [Pandera](https://github.com/unionai-oss/pandera) — DataFrame validation library.
 * [Cerberus](https://github.com/pyeve/cerberus) — Lightweight data validation.
 * [Pydantic](https://github.com/pydantic/pydantic) — Data validation using Python type annotations.
@@ -2910,7 +2910,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 
 * [dbt](https://github.com/dbt-labs/dbt-core) — Data transformation tool.
-* [SQLMesh](https://github.com/TobikoData/sqlmesh) — Efficient data transformation framework.
+* [SQLMesh](https://github.com/SQLMesh/sqlmesh) — Efficient data transformation framework.
 * [Apache Beam](https://github.com/apache/beam) — Unified batch and streaming data processing.
 
 ---
@@ -2932,7 +2932,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 * [Hugging Face Datasets](https://github.com/huggingface/datasets) — Access and share ML datasets.
 * [TensorFlow Datasets](https://github.com/tensorflow/datasets) — Collection of ML datasets.
-* [torchdata](https://github.com/pytorch/data) — PyTorch data loading library.
+* [torchdata](https://github.com/meta-pytorch/data) — PyTorch data loading library.
 * [FiftyOne](https://github.com/voxel51/fiftyone) — Dataset curation and model analysis.
 * [Activeloop Hub](https://github.com/activeloopai/deeplake) — Dataset format for AI.
 
@@ -2956,7 +2956,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 
 * [Cleanlab](https://github.com/cleanlab/cleanlab) — Find and fix data issues automatically.
-* [Great Expectations](https://github.com/great-expectations/great_expectations) — Data quality validation.
+* [Great Expectations](https://github.com/fivetran/great_expectations) — Data quality validation.
 * [DataGradients](https://github.com/Deci-AI/data-gradients) — Computer vision dataset analysis.
 * [NeMo Curator](https://github.com/NVIDIA-NeMo/Curator) — Scalable data curation for LLMs.
 * [Lilac](https://github.com/lilacai/lilac) — AI-powered dataset curation.
@@ -3032,7 +3032,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 * [ESM](https://github.com/facebookresearch/esm) — Protein language models by Meta.
 * [OpenFold](https://github.com/aqlaboratory/openfold) — Trainable AlphaFold2 reproduction.
-* [BioNeMo](https://github.com/NVIDIA/bionemo-framework) — Generative AI for biology by NVIDIA.
+* [BioNeMo](https://github.com/NVIDIA-BioNeMo/bionemo-recipes) — Generative AI for biology by NVIDIA.
 * [ColabFold](https://github.com/sokrypton/ColabFold) — Fast protein structure prediction.
 * [ProtTrans](https://github.com/agemagician/ProtTrans) — Protein language model.
 * [RFdiffusion](https://github.com/RosettaCommons/RFdiffusion) — Protein structure generation.
@@ -3046,7 +3046,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 * [RDKit](https://github.com/rdkit/rdkit) — Open-source cheminformatics.
 * [DeepChem](https://github.com/deepchem/deepchem) — Deep learning for chemistry and biology.
-* [Open Catalyst](https://github.com/FAIR-Chem/fairchem) — Catalysis and materials science ML.
+* [Open Catalyst](https://github.com/facebookresearch/fairchem) — Catalysis and materials science ML.
 * [SchNet](https://github.com/atomistic-machine-learning/schnetpack) — Deep learning for molecules.
 * [e3nn](https://github.com/e3nn/e3nn) — Euclidean neural networks for scientific computing.
 * [MACE](https://github.com/ACEsuit/mace) — Machine learning force fields.
@@ -3070,7 +3070,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 * [JAX-MD](https://github.com/jax-md/jax-md) — End-to-end differentiable molecular dynamics.
 * [DeepXDE](https://github.com/lululxvi/deepxde) — Physics-informed neural networks.
-* [NVIDIA Modulus](https://github.com/NVIDIA/modulus) — Physics ML framework.
+* [NVIDIA Modulus](https://github.com/NVIDIA/physicsnemo) — Physics ML framework.
 * [Fourier Neural Operator](https://github.com/neuraloperator/neuraloperator) — Learning in function spaces.
 * [PhiFlow](https://github.com/tum-pbs/PhiFlow) — Differentiable PDE solver.
 
@@ -3080,7 +3080,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 
 * [ClimaX](https://github.com/microsoft/ClimaX) — Foundation model for weather and climate.
-* [GraphCast](https://github.com/google-deepmind/graphcast) — DeepMind's weather forecasting model.
+* [GraphCast](https://github.com/google-deepmind/weathernext) — DeepMind's weather forecasting model.
 * [FourCastNet](https://github.com/NVlabs/FourCastNet) — Global weather forecasting by NVIDIA.
 * [Pangu-Weather](https://github.com/198808xc/Pangu-Weather) — Huawei's weather forecasting model.
 
@@ -3191,7 +3191,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [Lean 4](https://github.com/leanprover/lean4) — Functional programming language and theorem prover.
 * [Mathlib4](https://github.com/leanprover-community/mathlib4) — Mathematics library for Lean 4.
 * [Isabelle](https://github.com/isabelle-prover/mirror-isabelle) — Generic proof assistant.
-* [Coq](https://github.com/coq/coq) — Formal proof management system.
+* [Coq](https://github.com/rocq-prover/rocq) — Formal proof management system.
 
 ## 51.2 Mathematical Reasoning
 
@@ -3306,7 +3306,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 
 * [ClimaX](https://github.com/microsoft/ClimaX) — Climate and weather foundation model.
-* [GraphCast](https://github.com/google-deepmind/graphcast) — ML-based weather forecasting.
+* [GraphCast](https://github.com/google-deepmind/weathernext) — ML-based weather forecasting.
 * [FourCastNet](https://github.com/NVlabs/FourCastNet) — Fourier forecasting neural network.
 * [Aurora](https://github.com/microsoft/aurora) — Foundation model for Earth system science.
 
@@ -3326,7 +3326,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 
 * [CodeCarbon](https://github.com/mlco2/codecarbon) — Track CO2 emissions from computing.
-* [CarbonTracker](https://github.com/lfwa/carbontracker) — Energy and carbon tracking.
+* [CarbonTracker](https://github.com/saintslab/carbontracker) — Energy and carbon tracking.
 * [Zeus](https://github.com/ml-energy/zeus) — Energy optimization for DNN training.
 
 ---
@@ -3575,9 +3575,9 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 > 📖 *Curated Learning Guide:* [60.2 Web Research & Search — Study Guide, Courses & Repositories](60-AI-Search-and-Research-Agents/Web-Research-and-Search.md)
 
 
-* [Perplexica](https://github.com/ItzCrazyKns/Perplexica) — Open-source AI-powered search engine.
+* [Perplexica](https://github.com/ItzCrazyKns/Vane) — Open-source AI-powered search engine.
 * [browser-use](https://github.com/browser-use/browser-use) — Browser automation for AI research.
-* [Firecrawl](https://github.com/mendableai/firecrawl) — Convert websites to AI-ready data.
+* [Firecrawl](https://github.com/firecrawl/firecrawl) — Convert websites to AI-ready data.
 * [SearXNG](https://github.com/searxng/searxng) — Privacy-respecting metasearch engine.
 * [Khoj](https://github.com/khoj-ai/khoj) — AI-powered research and search assistant.
 * [MindSearch](https://github.com/InternLM/MindSearch) — Multi-agent framework for web search.
@@ -3609,7 +3609,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 * [Open WebUI](https://github.com/open-webui/open-webui) — Self-hosted AI chat platform.
 * [LibreChat](https://github.com/danny-avila/LibreChat) — Multi-provider AI chat interface.
-* [LobeChat](https://github.com/lobehub/lobe-chat) — Modern-design AI chat framework.
+* [LobeChat](https://github.com/lobehub/lobehub) — Modern-design AI chat framework.
 * [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) — Open-source ChatGPT UI.
 * [HuggingChat](https://github.com/huggingface/chat-ui) — Hugging Face's open chat interface.
 * [Chainlit](https://github.com/Chainlit/chainlit) — Build Python LLM chat apps.
@@ -3724,7 +3724,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 > 📖 *Curated Learning Guide:* [63.3 RPA (Robotic Process Automation) — Study Guide, Courses & Repositories](63-AI-Automation/RPA-Robotic-Process-Automation.md)
 
 
-* [TagUI](https://github.com/kelaberetiv/TagUI) — Free RPA / CLI tool for process automation.
+* [TagUI](https://github.com/aisingapore/TagUI) — Free RPA / CLI tool for process automation.
 * [RPA Framework](https://github.com/robocorp/rpaframework) — Open-source RPA libraries.
 * [Robocorp](https://github.com/robocorp) — Open-source RPA platform.
 
@@ -3760,7 +3760,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [OpenHands](https://github.com/OpenHands/OpenHands) — Agents that write and improve their own code.
 * [SWE-agent](https://github.com/SWE-agent/SWE-agent) — Agents that solve real GitHub issues.
 * [Voyager](https://github.com/MineDojo/Voyager) — LLM-powered lifelong learning agent.
-* [LATS](https://github.com/lapisrocks/LanguageAgentTreeSearch) — Language agent tree search.
+* [LATS](https://github.com/andyz245/LanguageAgentTreeSearch) — Language agent tree search.
 
 ## 64.3 Embodied AI
 
@@ -3836,7 +3836,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [DINO v2](https://github.com/facebookresearch/dinov2) — Self-supervised vision transformers.
 * [MAE](https://github.com/facebookresearch/mae) — Masked autoencoders for vision.
 * [SimCLR](https://github.com/google-research/simclr) — Contrastive learning of visual representations.
-* [BYOL](https://github.com/deepmind/deepmind-research) — Bootstrap your own latent.
+* [BYOL](https://github.com/google-deepmind/deepmind-research) — Bootstrap your own latent.
 * [VICReg](https://github.com/facebookresearch/vicreg) — Variance-invariance-covariance regularization.
 
 ## 65.5 State Space Models
@@ -3869,7 +3869,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 > 📖 *Curated Learning Guide:* [66.1 Machine Learning Courses — Study Guide, Courses & Repositories](66-AI-Learning-Repositories/Machine-Learning-Courses.md)
 
 
-* [Machine Learning Roadmap](https://github.com/alirezadir/Machine-Learning-Interviews) — Complete ML roadmap.
+* [Machine Learning Roadmap](https://github.com/alirezadir/AIMLInterviews) — Complete ML roadmap.
 * [Made With ML](https://github.com/GokuMohandas/Made-With-ML) — Learn ML and MLOps.
 * [ML for Beginners](https://github.com/microsoft/ML-For-Beginners) — 26-lesson ML curriculum by Microsoft.
 * [AI for Beginners](https://github.com/microsoft/AI-For-Beginners) — 24-lesson AI curriculum by Microsoft.
@@ -3898,7 +3898,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) — Build a large language model from scratch.
 * [Hands-on LLMs](https://github.com/iusztinpaul/hands-on-llms) — Learn about LLMs through building.
 * [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) — Free LLM engineering course.
-* [LLM Twin](https://github.com/decodingml/llm-twin-course) — Build your LLM twin.
+* [LLM Twin](https://github.com/decodingai-magazine/llm-twin-course) — Build your LLM twin.
 
 ## 66.4 AI Agents Courses
 
@@ -4161,7 +4161,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [Streamlit](https://github.com/streamlit/streamlit) — Data apps in minutes.
 * [Chainlit](https://github.com/Chainlit/chainlit) — Build conversational AI apps.
 * [Panel](https://github.com/holoviz/panel) — Dashboarding and app framework.
-* [Mesop](https://github.com/google/mesop) — Build web apps with Python by Google.
+* [Mesop](https://github.com/mesop-dev/mesop) — Build web apps with Python by Google.
 * [NiceGUI](https://github.com/zauberzeug/nicegui) — Easy-to-use Python UI framework.
 
 ## 69.4 Configuration & Experiment Management
@@ -4288,7 +4288,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [Voyager](https://github.com/MineDojo/Voyager) — LLM-based lifelong learning and planning agent.
 * [HuggingGPT](https://github.com/microsoft/JARVIS) — Task planning with LLMs and expert models.
 * [ToolLLM](https://github.com/OpenBMB/ToolBench) — Facilitating tool-use planning.
-* [LATS](https://github.com/lapisrocks/LanguageAgentTreeSearch) — Language agent tree search for planning.
+* [LATS](https://github.com/andyz245/LanguageAgentTreeSearch) — Language agent tree search for planning.
 
 ## 72.3 Logical Reasoning
 
@@ -4347,7 +4347,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [MobileNet](https://github.com/tensorflow/models) — Efficient mobile vision models.
 * [EfficientNet](https://github.com/tensorflow/tpu) — Scalable efficient neural networks.
 * [TinyLlama](https://github.com/jzhang38/TinyLlama) — Small Llama model trained on 3T tokens.
-* [Phi](https://github.com/microsoft/phi-3cookbook) — Compact but powerful small language models.
+* [Phi](https://github.com/microsoft/PhiCookBook) — Compact but powerful small language models.
 * [SmolLM](https://github.com/huggingface/smollm) — Family of small language models.
 * [Gemma](https://github.com/google-deepmind/gemma) — Lightweight open models by Google.
 
@@ -4373,7 +4373,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [xFormers](https://github.com/facebookresearch/xformers) — Modular and hackable transformer components.
 * [FlexAttention](https://github.com/pytorch/pytorch) — Flexible attention in PyTorch.
 * [PagedAttention](https://github.com/vllm-project/vllm) — Memory-efficient attention for serving.
-* [Ring Attention](https://github.com/lhao499/RingAttention) — Blockwise attention for near-infinite context.
+* [Ring Attention](https://github.com/haoliuhl/ringattention) — Blockwise attention for near-infinite context.
 
 ## 74.2 Mixture of Experts
 
@@ -4422,7 +4422,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 
 * [CodeCarbon](https://github.com/mlco2/codecarbon) — Track carbon emissions from ML.
-* [CarbonTracker](https://github.com/lfwa/carbontracker) — Track energy and carbon footprint.
+* [CarbonTracker](https://github.com/saintslab/carbontracker) — Track energy and carbon footprint.
 * [Zeus](https://github.com/ml-energy/zeus) — Energy optimization for deep learning.
 * [Eco2AI](https://github.com/sb-ai-lab/Eco2AI) — Carbon emission tracking for ML.
 * [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker) — Track compute impact of experiments.
@@ -4463,7 +4463,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 > 📖 *Curated Learning Guide:* [76.2 Privacy — Study Guide, Courses & Repositories](76-Responsible-AI/Privacy.md)
 
 
-* [Opacus](https://github.com/pytorch/opacus) — Differential privacy for PyTorch training.
+* [Opacus](https://github.com/meta-pytorch/opacus) — Differential privacy for PyTorch training.
 * [TensorFlow Privacy](https://github.com/tensorflow/privacy) — Privacy-preserving ML.
 * [dp-transformers](https://github.com/microsoft/dp-transformers) — DP fine-tuning of transformers.
 * [PySyft](https://github.com/OpenMined/PySyft) — Private deep learning.
@@ -4475,7 +4475,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 
 * [Responsible AI Toolbox](https://github.com/microsoft/responsible-ai-toolbox) — Microsoft's responsible AI suite.
 * [Model Cards Toolkit](https://github.com/tensorflow/model-card-toolkit) — Create model cards for documentation.
-* [AI Fairness Checklist](https://www.microsoft.com/en-us/research/project/ai-fairness-checklist/) — Fairness guidelines by Microsoft.
+* [AI Fairness Checklist](https://arxiv.org/abs/2009.05611) — Fairness guidelines by Microsoft.
 
 ---
 
@@ -4493,7 +4493,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 > 📖 *Curated Learning Guide:* [77.1 Federated Learning — Study Guide, Courses & Repositories](77-Privacy-Preserving-AI/Federated-Learning.md)
 
 
-* [Flower](https://github.com/adap/flower) — Federated learning framework.
+* [Flower](https://github.com/flwrlabs/flower) — Federated learning framework.
 * [FedML](https://github.com/FedML-AI/FedML) — Federated learning ecosystem.
 * [PySyft](https://github.com/OpenMined/PySyft) — Encrypted and private ML.
 * [FATE](https://github.com/FederatedAI/FATE) — Federated AI technology enabler.
@@ -4505,7 +4505,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 > 📖 *Curated Learning Guide:* [77.2 Differential Privacy — Study Guide, Courses & Repositories](77-Privacy-Preserving-AI/Differential-Privacy.md)
 
 
-* [Opacus](https://github.com/pytorch/opacus) — DP training for PyTorch models.
+* [Opacus](https://github.com/meta-pytorch/opacus) — DP training for PyTorch models.
 * [TensorFlow Privacy](https://github.com/tensorflow/privacy) — DP tools for TensorFlow.
 * [OpenDP](https://github.com/opendp/opendp) — Differential privacy tools.
 * [dp-transformers](https://github.com/microsoft/dp-transformers) — DP fine-tuning of language models.
@@ -4542,14 +4542,14 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [Cleanlab](https://github.com/cleanlab/cleanlab) — Find and fix data and model issues.
 * [Evidently](https://github.com/evidentlyai/evidently) — ML model monitoring and testing.
 * [Deepchecks](https://github.com/deepchecks/deepchecks) — Testing suite for ML models and data.
-* [Giskard](https://github.com/Giskard-AI/giskard) — Testing framework for AI models.
+* [Giskard](https://github.com/Giskard-AI/giskard-oss) — Testing framework for AI models.
 
 ## 78.2 Data Debugging
 
 > 📖 *Curated Learning Guide:* [78.2 Data Debugging — Study Guide, Courses & Repositories](78-AI-Diagnostics/Data-Debugging.md)
 
 
-* [Great Expectations](https://github.com/great-expectations/great_expectations) — Data quality and validation.
+* [Great Expectations](https://github.com/fivetran/great_expectations) — Data quality and validation.
 * [Cleanlab](https://github.com/cleanlab/cleanlab) — Data-centric AI.
 * [FiftyOne](https://github.com/voxel51/fiftyone) — Dataset analysis and visualization.
 * [Pandera](https://github.com/unionai-oss/pandera) — DataFrame validation.

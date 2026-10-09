@@ -46,7 +46,7 @@
 
 ### 📚 Books
 
-- [Data Analysis with Polars by Jeroen Janssens (Manning)](https://www.manning.com/books/data-analysis-with-polars) — The definitive guide to unlocking the speed and memory efficiency of the Polars DataFrame library.
+- [Data Analysis with Polars by Jeroen Janssens (Manning)](https://polarsguide.com/) — The definitive guide to unlocking the speed and memory efficiency of the Polars DataFrame library.
 
 ### 💻 GitHub / Implementations
 

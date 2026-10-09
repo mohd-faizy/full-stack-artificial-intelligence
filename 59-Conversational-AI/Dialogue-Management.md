@@ -55,7 +55,7 @@
 
 ### 🧪 Practice
 
-- [Rasa Interactive Learning Mode](https://rasa.com/docs/rasa/interactive-learning) — Train your dialogue model interactively by chatting with it and correcting predictions in real time.
+- [Rasa Interactive Learning Mode](https://rasa.com/docs/rasa/) — Train your dialogue model interactively by chatting with it and correcting predictions in real time.
 
 ### 🛠️ Projects
 

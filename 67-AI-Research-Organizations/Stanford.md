@@ -51,7 +51,7 @@
 
 ### 🧪 Practice
 
-- [DSPy Interactive Getting Started](https://dspy-docs.vercel.app/docs/quick-start/minimal-example) — Build a multi-hop question answering pipeline with automated prompt compilation in DSPy.
+- [DSPy Interactive Getting Started](https://dspy.ai/) — Build a multi-hop question answering pipeline with automated prompt compilation in DSPy.
 
 ### 🛠️ Projects
 

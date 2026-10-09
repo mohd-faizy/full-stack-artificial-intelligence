@@ -52,7 +52,7 @@
 - [NCNN](https://github.com/Tencent/ncnn) — High-performance neural network inference by Tencent.
 - [MNN](https://github.com/alibaba/MNN) — Mobile neural network inference engine.
 - [Paddle Lite](https://github.com/PaddlePaddle/Paddle-Lite) — Mobile and edge inference.
-- [AI Edge Torch](https://github.com/google-ai-edge/ai-edge-torch) — PyTorch models on edge via Google.
+- [AI Edge Torch](https://github.com/google-ai-edge/litert-torch) — PyTorch models on edge via Google.
 
 ### 🧪 Practice
 
@@ -60,7 +60,7 @@
 
 ### 🛠️ Projects
 
-- [Deploy LLaMA 3 on iOS with ExecuTorch](https://pytorch.org/executorch/stable/llm/llm-overview.html) — Export and compile a quantized 3B LLM to run natively on iPhone using Apple Core ML delegates.
+- [Deploy LLaMA 3 on iOS with ExecuTorch](https://pytorch.org/executorch/stable/tutorials/export-to-executorch-tutorial.html) — Export and compile a quantized 3B LLM to run natively on iPhone using Apple Core ML delegates.
 
 ## 🧭 Recommended Learning Path
 

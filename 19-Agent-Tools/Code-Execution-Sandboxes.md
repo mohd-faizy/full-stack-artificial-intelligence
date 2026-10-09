@@ -22,7 +22,7 @@
 
 ### 📖 Documentation & References
 
-- [E2B Official Documentation](https://e2b.dev/docs) — Guides on spawning sandboxes, executing code, streaming stdout/stderr, and rendering charts.
+- [E2B Official Documentation](https://docs.e2b.dev) — Guides on spawning sandboxes, executing code, streaming stdout/stderr, and rendering charts.
 - [CodeSandbox SDK Docs](https://codesandbox.io/docs/sdk) — Programmatic cloud development environments and container execution SDK.
 
 ### 🎓 Courses
@@ -61,7 +61,7 @@
 
 ### 🛠️ Projects
 
-- [Safe Multi-Tenant AI Coding Assistant](https://e2b.dev/docs) — Build a web app where users can ask an AI to write and test Python algorithms, executing code inside isolated E2B microVMs without host exposure.
+- [Safe Multi-Tenant AI Coding Assistant](https://docs.e2b.dev) — Build a web app where users can ask an AI to write and test Python algorithms, executing code inside isolated E2B microVMs without host exposure.
 
 ## 🧭 Recommended Learning Path
 

@@ -51,12 +51,12 @@
 ### 💻 GitHub / Implementations
 
 - [dbt](https://github.com/dbt-labs/dbt-core) — Data transformation tool.
-- [SQLMesh](https://github.com/TobikoData/sqlmesh) — Efficient data transformation framework.
+- [SQLMesh](https://github.com/SQLMesh/sqlmesh) — Efficient data transformation framework.
 - [Apache Beam](https://github.com/apache/beam) — Unified batch and streaming data processing.
 
 ### 🧪 Practice
 
-- [dbt CLI Local Walkthrough with DuckDB](https://github.com/dbt-labs/dbt-duckdb) — Run dbt models locally against a fast DuckDB database without any cloud warehouse credentials.
+- [dbt CLI Local Walkthrough with DuckDB](https://github.com/duckdb/dbt-duckdb) — Run dbt models locally against a fast DuckDB database without any cloud warehouse credentials.
 
 ### 🛠️ Projects
 

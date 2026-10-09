@@ -48,11 +48,11 @@
 - [Open WebUI](https://github.com/open-webui/open-webui) — Self-hosted ChatGPT-like interface.
 - [Jan](https://github.com/janhq/jan) — Open-source local AI assistant.
 - [LibreChat](https://github.com/danny-avila/LibreChat) — Enhanced ChatGPT clone with multi-provider support.
-- [LobeChat](https://github.com/lobehub/lobe-chat) — Modern AI chat framework.
+- [LobeChat](https://github.com/lobehub/lobehub) — Modern AI chat framework.
 - [Big-AGI](https://github.com/enricoros/big-AGI) — AI suite built for professionals.
 - [Chatbox](https://github.com/chatboxai/chatbox) — Desktop app for AI models.
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) — AI chat interface for role-playing.
-- [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui) — Gradio web UI for LLMs.
+- [Text Generation WebUI](https://github.com/oobabooga/textgen) — Gradio web UI for LLMs.
 - [AnythingLLM](https://github.com/Mintplex-Labs/anything-llm) — All-in-one AI desktop app.
 
 ### 🧪 Practice

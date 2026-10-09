@@ -52,7 +52,7 @@
 
 - [PEFT](https://github.com/huggingface/peft) — LoRA, QLoRA, AdaLoRA, and more.
 - [TRL](https://github.com/huggingface/trl) — Post-training with RLHF, DPO, SFT.
-- [LlamaFactory](https://github.com/hiyouga/LLaMA-Factory) — Unified fine-tuning of 100+ LLMs.
+- [LlamaFactory](https://github.com/hiyouga/LlamaFactory) — Unified fine-tuning of 100+ LLMs.
 - [Axolotl](https://github.com/axolotl-ai-cloud/axolotl) — Streamlined LLM fine-tuning tool.
 - [unsloth](https://github.com/unslothai/unsloth) — Fine-tune LLMs 2x faster with 80% less memory.
 - [xtuner](https://github.com/InternLM/xtuner) — Efficient fine-tuning toolkit.
@@ -69,7 +69,7 @@
 
 ### 🛠️ Projects
 
-- [Domain-Specific Instruction Tuned Model](https://github.com/hiyouga/LLaMA-Factory) — Use LLaMA-Factory to fine-tune an 8B model on a custom medical or legal dataset using QLoRA.
+- [Domain-Specific Instruction Tuned Model](https://github.com/hiyouga/LlamaFactory) — Use LLaMA-Factory to fine-tune an 8B model on a custom medical or legal dataset using QLoRA.
 
 ## 🧭 Recommended Learning Path
 

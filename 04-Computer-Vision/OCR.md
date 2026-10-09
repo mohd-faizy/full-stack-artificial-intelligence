@@ -23,7 +23,7 @@
 
 ### 📖 Documentation & References
 
-- [PaddleOCR Docs](https://paddlepaddle.github.io/PaddleOCR/) — Comprehensive guide for multilingual OCR, DBNet text detection, and mobile deployment.
+- [PaddleOCR Docs](https://github.com/PaddlePaddle/PaddleOCR) — Comprehensive guide for multilingual OCR, DBNet text detection, and mobile deployment.
 - [Tesseract OCR Documentation](https://tesseract-ocr.github.io/) — The legendary open-source OCR engine maintained by Google.
 - [EasyOCR Documentation](https://www.jaided.ai/easyocr/) — Ready-to-use OCR with 80+ supported languages and Python PyTorch bindings.
 

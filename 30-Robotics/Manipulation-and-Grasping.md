@@ -59,7 +59,7 @@
 
 ### 🧪 Practice
 
-- [Drake Robotic Manipulation Online Exercises](https://manipulation.csail.mit.edu/exercises.html) — Interactive Jupyter notebooks solving kinematics, grasp selection, and trajectory optimization.
+- [Drake Robotic Manipulation Online Exercises](https://manipulation.csail.mit.edu/) — Interactive Jupyter notebooks solving kinematics, grasp selection, and trajectory optimization.
 
 ### 🛠️ Projects
 

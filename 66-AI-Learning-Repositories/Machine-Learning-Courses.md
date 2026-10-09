@@ -74,7 +74,7 @@
 
 ### 💻 GitHub / Implementations
 
-- [Machine Learning Roadmap](https://github.com/alirezadir/Machine-Learning-Interviews) — Complete ML roadmap.
+- [Machine Learning Roadmap](https://github.com/alirezadir/AIMLInterviews) — Complete ML roadmap.
 - [Made With ML](https://github.com/GokuMohandas/Made-With-ML) — Learn ML and MLOps.
 - [ML for Beginners](https://github.com/microsoft/ML-For-Beginners) — 26-lesson ML curriculum by Microsoft.
 - [AI for Beginners](https://github.com/microsoft/AI-For-Beginners) — 24-lesson AI curriculum by Microsoft.

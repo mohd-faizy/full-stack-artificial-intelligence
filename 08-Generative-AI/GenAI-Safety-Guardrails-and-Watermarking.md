@@ -81,6 +81,6 @@
 ## ⭐ Top 3 Resources
 
 1. [NeMo Guardrails (NVIDIA)](https://github.com/NVIDIA/NeMo-Guardrails) — The premier open-source programmable guardrail architecture for enterprise AI.
-2. [Meta Llama Guard](https://github.com/meta-llama/llama-guard) — The industry standard classifier model for evaluating input/output safety risks.
+2. [Meta Llama Guard](https://github.com/meta-llama/PurpleLlama) — The industry standard classifier model for evaluating input/output safety risks.
 3. [OWASP Top 10 for LLMs](https://owasp.org/www-project-top-10-for-large-language-model-applications/) — The authoritative security framework for identifying and mitigating LLM vulnerabilities.
 

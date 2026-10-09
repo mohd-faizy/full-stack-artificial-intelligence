@@ -50,7 +50,7 @@
 ### 💻 GitHub / Implementations
 
 - [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) — The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery.
-- [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) — An AI-powered tool for automated PR review, feedback, and suggestions.
+- [qodo-ai/pr-agent](https://github.com/The-PR-Agent/pr-agent) — An AI-powered tool for automated PR review, feedback, and suggestions.
 - [AI4Finance-Foundation/FinRobot](https://github.com/AI4Finance-Foundation/FinRobot) — An open-source AI agent platform for financial applications.
 
 ## 📄 Foundational Papers
@@ -60,7 +60,7 @@
 
 ### 🧪 Practice
 
-- [PR-Agent GitHub Action](https://github.com/qodo-ai/pr-agent#github-action-usage) — Install PR-Agent onto any public or private GitHub repository to review incoming PRs automatically.
+- [PR-Agent GitHub Action](https://github.com/The-PR-Agent/pr-agent#github-action-usage) — Install PR-Agent onto any public or private GitHub repository to review incoming PRs automatically.
 
 ### 🛠️ Projects
 

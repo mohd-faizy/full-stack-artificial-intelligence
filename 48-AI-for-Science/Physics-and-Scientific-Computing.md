@@ -15,7 +15,7 @@
 
 ### 🥇 Best Overall
 
-- [DeepXDE](https://github.com/luluxing/deepxde)
+- [DeepXDE](https://github.com/lululxvi/deepxde)
   - Type: PINNs Framework
   - Language: English
   - Level: Intermediate
@@ -23,7 +23,7 @@
 
 ### 🎓 Courses
 
-- [Brown University / CRUNCH Seminars: Physics-Informed Machine Learning](https://www.youtube.com/@crunchgroup4204) — George Karniadakis' world-renowned seminar series on PINNs and scientific machine learning.
+- [Brown University / CRUNCH Seminars: Physics-Informed Machine Learning](https://www.youtube.com/@CrunchGroup) — George Karniadakis' world-renowned seminar series on PINNs and scientific machine learning.
 
 ### ▶️ YouTube — English
 
@@ -47,7 +47,7 @@
 
 - [JAX-MD](https://github.com/jax-md/jax-md) — End-to-end differentiable molecular dynamics.
 - [DeepXDE](https://github.com/lululxvi/deepxde) — Physics-informed neural networks.
-- [NVIDIA Modulus](https://github.com/NVIDIA/modulus) — Physics ML framework.
+- [NVIDIA Modulus](https://github.com/NVIDIA/physicsnemo) — Physics ML framework.
 - [Fourier Neural Operator](https://github.com/neuraloperator/neuraloperator) — Learning in function spaces.
 - [PhiFlow](https://github.com/tum-pbs/PhiFlow) — Differentiable PDE solver.
 
@@ -58,7 +58,7 @@
 
 ### 🧪 Practice
 
-- [DeepXDE 1D Wave Equation Tutorial](https://deepxde.readthedocs.io/en/latest/demos/pinn_forward/wave.1d.html) — Solve a 1D wave equation with PINNs in 30 lines of Python code.
+- [DeepXDE 1D Wave Equation Tutorial](https://deepxde.readthedocs.io/en/latest/demos/pinn_forward.html) — Solve a 1D wave equation with PINNs in 30 lines of Python code.
 
 ### 🛠️ Projects
 

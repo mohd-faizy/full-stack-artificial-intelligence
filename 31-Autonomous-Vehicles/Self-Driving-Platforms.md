@@ -23,7 +23,7 @@
 ### 📖 Documentation & References
 
 - [openpilot Documentation](https://docs.comma.ai/) — Installation, supported vehicles, CAN bus communication, and software architecture.
-- [Autoware Documentation](https://autowarefoundation.github.io/autoware-documentation/main/) — ROS 2-based autonomous driving platform covering localization, planning, and control.
+- [Autoware Documentation](https://docs.autoware.org/main/) — ROS 2-based autonomous driving platform covering localization, planning, and control.
 - [Baidu Apollo Documentation](https://apollo.baidu.com/) — Enterprise autonomous driving platform with HD mapping, perception, and cyber RT.
 
 ### 🎓 Courses
@@ -59,11 +59,11 @@
 
 ### 🧪 Practice
 
-- [openpilot Driving Simulator](https://github.com/commaai/openpilot/tree/master/tools/sim) — Test openpilot steering and speed control inside CARLA or desktop simulation.
+- [openpilot Driving Simulator](https://github.com/commaai/openpilot) — Test openpilot steering and speed control inside CARLA or desktop simulation.
 
 ### 🛠️ Projects
 
-- [Autonomous Vehicle Driving Stack in CARLA](https://autowarefoundation.github.io/autoware-documentation/) — Deploy Autoware connected to the CARLA simulator to execute full-route autonomous navigation with traffic lights and pedestrian avoidance.
+- [Autonomous Vehicle Driving Stack in CARLA](https://docs.autoware.org/) — Deploy Autoware connected to the CARLA simulator to execute full-route autonomous navigation with traffic lights and pedestrian avoidance.
 
 ## 🧭 Recommended Learning Path
 
