@@ -5,12 +5,22 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/mohd-faizy/full-stack-artificial-intelligence"><img src="https://img.shields.io/github/stars/mohd-faizy/full-stack-artificial-intelligence?style=for-the-badge&logo=github&color=0969da" alt="Stars"></a>
+  <a href="https://github.com/mohd-faizy/full-stack-artificial-intelligence/stargazers"><img src="https://img.shields.io/github/stars/mohd-faizy/full-stack-artificial-intelligence?style=for-the-badge&logo=github&color=0969da" alt="Stars"></a>
   <a href="https://github.com/mohd-faizy/full-stack-artificial-intelligence/network/members"><img src="https://img.shields.io/github/forks/mohd-faizy/full-stack-artificial-intelligence?style=for-the-badge&logo=github&color=0969da" alt="Forks"></a>
-  <a href="https://github.com/mohd-faizy/full-stack-artificial-intelligence/issues"><img src="https://img.shields.io/github/issues/mohd-faizy/full-stack-artificial-intelligence?style=for-the-badge&logo=github&color=informational" alt="Issues"></a>
-  <a href="https://github.com/mohd-faizy/full-stack-artificial-intelligence/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github" alt="PRs Welcome"></a>
-  <a href="https://github.com/mohd-faizy/full-stack-artificial-intelligence/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mohd-faizy/full-stack-artificial-intelligence?style=for-the-badge&logo=opensourceinitiative&color=success" alt="License"></a>
-  <a href="https://github.com/mohd-faizy/full-stack-artificial-intelligence/commits/main"><img src="https://img.shields.io/github/last-commit/mohd-faizy/full-stack-artificial-intelligence?style=for-the-badge&logo=git&color=d08770" alt="Last Commit"></a>
+  <a href="https://github.com/mohd-faizy/full-stack-artificial-intelligence/issues"><img src="https://img.shields.io/github/issues/mohd-faizy/full-stack-artificial-intelligence?style=for-the-badge&logo=github&color=2ea44f" alt="Issues"></a>
+  <a href="https://github.com/mohd-faizy/full-stack-artificial-intelligence/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=gitpullrequest&logoColor=white" alt="PRs Welcome"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue?style=for-the-badge&logo=creative-commons&logoColor=white" alt="License: CC0 1.0"></a>
+  <a href="https://github.com/mohd-faizy/full-stack-artificial-intelligence/commits/main"><img src="https://img.shields.io/github/last-commit/mohd-faizy/full-stack-artificial-intelligence?style=for-the-badge&logo=git&color=f77f00" alt="Last Commit"></a>
+</p>
+
+<p align="center">
+  <a href="#essential-ai-repositories"><img src="https://img.shields.io/badge/Awesome-Curated_Directory-fc60a8?style=for-the-badge&logo=awesomelists&logoColor=white" alt="Awesome Curated Directory"></a>
+  <a href="#contents"><img src="https://img.shields.io/badge/Curated_Domains-82_Tracks-7928CA?style=for-the-badge&logo=stackshare&logoColor=white" alt="82 AI Tracks"></a>
+  <a href="#contents"><img src="https://img.shields.io/badge/Curated_Repos-1000%2B-4361ee?style=for-the-badge&logo=github&logoColor=white" alt="1000+ Curated Repos"></a>
+  <a href="https://github.com/mohd-faizy/full-stack-artificial-intelligence/pulse"><img src="https://img.shields.io/badge/Status-Actively_Maintained-2ea44f?style=for-the-badge&logo=githubactions&logoColor=white" alt="Actively Maintained"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+"></a>
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch 2.0+"></a>
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-Ecosystem-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Ecosystem"></a>
 </p>
 
 
@@ -4811,14 +4821,15 @@ Individual repositories listed here remain under their respective licenses.
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Connect with Me
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/F4izy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohdfaizy.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-faizy/)
-[![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-1E5397?style=for-the-badge&logo=stack-exchange&logoColor=white)](https://ai.stackexchange.com/users/36737/faizy)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohd-faizy)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/mohd-faizy)
+[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/F4izy)
+[![Stack Exchange](https://img.shields.io/badge/Stack_Exchange-1E5397?style=for-the-badge&logo=stack-exchange&logoColor=white)](https://ai.stackexchange.com/users/36737/faizy)
 
 </div>
-
