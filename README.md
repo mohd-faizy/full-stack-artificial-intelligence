@@ -1,16 +1,16 @@
-# The AI Stack
+# Full Stack Artificial Intelligence
 
-![The AI Stack](_assets/banner.png)
+![Full-Stack Artificial Intelligence](_assets/banner.png)
 
 ---
 
 <p align="center">
-  <a href="https://github.com/mohd-faizy/the-ai-stack"><img src="https://img.shields.io/github/stars/mohd-faizy/the-ai-stack?style=for-the-badge&logo=github&color=0969da" alt="Stars"></a>
-  <a href="https://github.com/mohd-faizy/the-ai-stack/network/members"><img src="https://img.shields.io/github/forks/mohd-faizy/the-ai-stack?style=for-the-badge&logo=github&color=0969da" alt="Forks"></a>
-  <a href="https://github.com/mohd-faizy/the-ai-stack/issues"><img src="https://img.shields.io/github/issues/mohd-faizy/the-ai-stack?style=for-the-badge&logo=github&color=informational" alt="Issues"></a>
-  <a href="https://github.com/mohd-faizy/the-ai-stack/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github" alt="PRs Welcome"></a>
-  <a href="https://github.com/mohd-faizy/the-ai-stack/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mohd-faizy/the-ai-stack?style=for-the-badge&logo=opensourceinitiative&color=success" alt="License"></a>
-  <a href="https://github.com/mohd-faizy/the-ai-stack/commits/main"><img src="https://img.shields.io/github/last-commit/mohd-faizy/the-ai-stack?style=for-the-badge&logo=git&color=d08770" alt="Last Commit"></a>
+  <a href="https://github.com/mohd-faizy/full-stack-artificial-intelligence"><img src="https://img.shields.io/github/stars/mohd-faizy/full-stack-artificial-intelligence?style=for-the-badge&logo=github&color=0969da" alt="Stars"></a>
+  <a href="https://github.com/mohd-faizy/full-stack-artificial-intelligence/network/members"><img src="https://img.shields.io/github/forks/mohd-faizy/full-stack-artificial-intelligence?style=for-the-badge&logo=github&color=0969da" alt="Forks"></a>
+  <a href="https://github.com/mohd-faizy/full-stack-artificial-intelligence/issues"><img src="https://img.shields.io/github/issues/mohd-faizy/full-stack-artificial-intelligence?style=for-the-badge&logo=github&color=informational" alt="Issues"></a>
+  <a href="https://github.com/mohd-faizy/full-stack-artificial-intelligence/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github" alt="PRs Welcome"></a>
+  <a href="https://github.com/mohd-faizy/full-stack-artificial-intelligence/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mohd-faizy/full-stack-artificial-intelligence?style=for-the-badge&logo=opensourceinitiative&color=success" alt="License"></a>
+  <a href="https://github.com/mohd-faizy/full-stack-artificial-intelligence/commits/main"><img src="https://img.shields.io/github/last-commit/mohd-faizy/full-stack-artificial-intelligence?style=for-the-badge&logo=git&color=d08770" alt="Last Commit"></a>
 </p>
 
 
