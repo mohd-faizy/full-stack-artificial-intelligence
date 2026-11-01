@@ -3402,6 +3402,7 @@ A rigorously curated directory of foundational, production-grade, and breakthrou
 * [Pytest](https://github.com/pytest-dev/pytest) — Python testing framework.
 * [Hypothesis](https://github.com/HypothesisWorks/hypothesis) — Property-based testing.
 * [Pynguin](https://github.com/se2p/pynguin) — Automatic Python unit test generation.
+* [agent-qa](https://vostride.com) ([source](https://github.com/vostride/agent-qa)) — Natural-language web and mobile testing with persistent memidex memory and validated self-improvement (FSL-1.1-ALv2).
 
 ## 56.3 Documentation AI
 
